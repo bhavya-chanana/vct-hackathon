@@ -64,8 +64,8 @@ After extensive data scraping and cleaning, we compiled a final CSV dataset cont
 | **igl**                             | Whether the player is an in-game leader (IGL)                               |
 | **gender**                          | Player's gender                                                             |
 | **country**                         | Country the player represents                                               |
-| **primary_language**                | Player's primary language                                                   |
-| **regions**                         | Regions the player competes in (e.g., NA, EU, SA)                           |
+| **primary_language**                | Player's primary language, (secondary language)                                                  |
+| **regions**                         | Regions the player competes in (e.g., NA, EU, SA)                          |
 | **league**                          | The league the player competes in (VCT, Game Changers, Challengers)         |
 
 ---
