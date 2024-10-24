@@ -26,8 +26,14 @@ We ultimately found that scraping from `vlr.gg` wasn’t ideal for reliable agen
 - The URL we used for player statistics: [https://www.vlr.gg/stats](https://www.vlr.gg/stats)
 - Player profile URL example: [https://www.vlr.gg/player/9/tenz](https://www.vlr.gg/player/9/tenz)
 
-Automating this process was challenging since we had to go through every player's profile individually to extract accurate stats. We initially tried using `Liquipedia`, but it had fewer players, so we shifted to automating scraping from `vlr.gg`.
+Automating this process was challenging since we had to go through every player's profile individually to extract accurate stats. We initially tried using Liquipedia, but it had fewer players, so we shifted to automating scraping from vlr.gg.
 
+One of the key challenges was that player pages on vlr.gg were not easily accessible by just replacing the name of the player in the URL. Instead, each player had a unique ID associated with their profile. For example, TenZ’s profile page URL is:
+
+Here, the number `9` is the unique ID for TenZ, which meant we had to automate the process of searching for the player profile and extracting this ID for every player to scrape their detailed stats. This added a layer of complexity to our data scraping process.
+- Player profile URL we used for vlr example: [https://www.vlr.gg/player/9/tenz/?timespan=all](https://www.vlr.gg/player/9/tenz/?timespan=all)
+This made scraping detailed and accurate stats for each player more complex, as the process couldn’t be achieved by just replacing the player’s name in the URL, you can remove the player name from the below URL, it's going to behave the same
+https://www.vlr.gg/player/{player_id}/{player_name}/?timespan=all
 ---
 
 ## Final Data CSV
