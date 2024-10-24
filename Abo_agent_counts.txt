@@ -1,0 +1,14 @@
+Chamber: 28
+Cypher: 36
+Jett: 23
+Fade: 4
+Viper: 36
+Gekko: 1
+Raze: 24
+Killjoy: 12
+Sova: 2
+KAY/O: 2
+Skye: 9
+Sage: 22
+Phoenix: 4
+Reyna: 5

@@ -1,0 +1,3 @@
+Sova: 89
+Fade: 52
+Skye: 52

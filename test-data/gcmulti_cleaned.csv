@@ -1,0 +1,482 @@
+handle,first_name,last_name,status,photo_url,org,agents,rounds_played,rating,average_combat_score,kill_deaths,kill_assists_survived_traded,average_damage_per_round,kills_per_round,assists_per_round,first_kills_per_round,first_deaths_per_round,headshot_percentage,clutch_success_percentage
+Sliicyy,Lucy,Tran,active,http://static.lolesports.com/players/1633033031951_silhouette.png,char,"brimstone, viper, jett",3644,1.04,215.6,1.06,73%,136.8,0.77,0.31,0.11,0.12,25%,17%
+Bia,Beatriz,Terra,active,,M28,"jett, reyna, viper",1601,0.96,202.9,0.98,68%,129.6,0.73,0.13,0.13,0.13,26%,13%
+zAAz,Zainab,Turkie,active,http://static.lolesports.com/players/1633033031951_silhouette.png,G2.G,"skye, breach, sage",1239,1.06,198.0,1.11,76%,131.6,0.72,0.31,0.08,0.07,30%,22%
+angelka,Angela ,Nikolovska,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FOG,"reyna, raze, jett",1455,0.84,184.6,0.78,67%,120.7,0.63,0.3,0.1,0.11,16%,9%
+Jiex,Nuran ï¿½ï¿½ur,Yï¿½ï¿½ldï¿,active,http://static.lolesports.com/players/1681467169716_silhouette_transparent.png,VLNT,"jett, raze, breach",2794,0.95,193.4,0.92,71%,128.2,0.68,0.34,0.09,0.09,29%,10%
+Sandra,Sandra,Sherif,active,http://static.lolesports.com/players/1681466195112_silhouette_transparent.png,GK,"raze, jett",348,0.79,199.1,0.77,64%,130.7,0.66,0.2,0.16,0.18,19%,8%
+Annie,Alba ,Garcï¿½,active,http://static.lolesports.com/players/1633033031951_silhouette.png,O1O,"skye, breach, cypher",2563,0.99,210.5,1.01,68%,138.1,0.74,0.15,0.16,0.14,31%,10%
+Ninou,Nouhara,Marcos,active,http://static.lolesports.com/players/1633033031951_silhouette.png,VLNT,"sage, sova, brimstone",4699,1.0,187.8,0.96,75%,124.0,0.65,0.38,0.06,0.08,22%,19%
+inari,Irina,Shilova,active,http://static.lolesports.com/players/1681467443275_silhouette_transparent.png,GMX.L,"chamber, killjoy, viper",324,0.8,160.8,0.72,65%,110.2,0.56,0.36,0.07,0.09,25%,11%
+Ritsu,Ruben,Mendoza,active,http://static.lolesports.com/players/1676655212166_placeholder.png,Gala,"omen, viper, chamber",809,1.04,207.7,1.08,70%,141.0,0.74,0.21,0.11,0.1,30%,8%
+Celasun,Celasun,Emir,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,SUP,"killjoy, chamber, cypher",1175,0.94,176.9,0.96,70%,121.0,0.64,0.18,0.06,0.07,28%,12%
+Elizabeth,Elizaveta,Ashchina,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SES,"sova, kayo, viper",647,1.07,192.8,1.0,74%,135.3,0.68,0.33,0.04,0.05,21%,18%
+julis,Aï¿½ï¿½e,ýýzgen,active,http://static.lolesports.com/players/1633033031951_silhouette.png,fuVi,"viper, sage, breach",1605,1.01,194.0,1.0,73%,125.4,0.7,0.32,0.06,0.06,23%,15%
+Dati,Damla,Atila,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FUT.Fe,"sova, breach, astra",2855,0.93,176.7,0.86,72%,117.5,0.61,0.36,0.07,0.07,28%,21%
+mediKa,Annika,Lambertz,active,http://static.lolesports.com/players/1637006367618_placeholder.png,SK.N,"killjoy, cypher, sova",2517,0.87,175.2,0.82,70%,118.5,0.6,0.34,0.06,0.09,22%,15%
+NataKodo,Natalia,Yhova,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Evoz,"kayo, yoru, chamber",731,0.96,199.6,0.95,67%,131.9,0.71,0.23,0.12,0.14,24%,14%
+sia,Yoldez,Matri,active,http://static.lolesports.com/players/1637006446588_placeholder.png,SK.N,"sage, astra, reyna",2499,0.87,171.3,0.84,69%,113.1,0.6,0.31,0.06,0.08,27%,14%
+OXMANN,Aytekin Furkan,ýýakýýr,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SUP,"sova, breach, cypher",860,0.87,179.1,0.86,68%,118.9,0.65,0.22,0.07,0.09,34%,8%
+klaudia,Klaudia,Beczkiewicz,active,http://static.lolesports.com/players/1633033031951_silhouette.png,O1O,"reyna, skye, viper",3760,1.08,215.1,1.07,75%,140.6,0.75,0.39,0.09,0.09,24%,14%
+zonixx,Michele,Kï¿½ï¿½,active,http://static.lolesports.com/players/1633033031951_silhouette.png,BIG,"omen, kayo, raze",676,0.9,177.1,0.91,62%,118.9,0.63,0.2,0.05,0.08,21%,17%
+Nessa,Vanessa ,Ahlstrï¿½,active,http://static.lolesports.com/players/1633033031951_silhouette.png,IRIS,"astra, reyna, viper",741,0.83,178.2,0.79,64%,117.8,0.63,0.24,0.09,0.12,20%,13%
+MissLaia,Laia,Miralles Brull,active,http://static.lolesports.com/players/1637006098655_placeholder.png,TQ,"astra, viper, reyna",1088,0.87,176.3,0.81,67%,113.5,0.59,0.33,0.07,0.1,21%,14%
+rain,Amanda,Smith,active,http://static.lolesports.com/players/1632350350610_silhouette-female.png,Hogw,"sova, jett, chamber",412,0.9,185.9,0.88,67%,120.3,0.68,0.13,0.12,0.11,30%,10%
+zelo,Davies,Harry,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,DIV,"breach, jett, chamber",256,0.71,161.1,0.67,53%,106.4,0.55,0.16,0.12,0.22,23%,9%
+sae2,Eden,Astrolia,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,NB,"omen, raze, viper",452,0.82,137.5,0.74,67%,89.7,0.49,0.27,0.03,0.04,16%,15%
+Sylva,Anna,Bruce-Doig,active,http://static.lolesports.com/players/1633033031951_silhouette.png,XL.GC,"sova, skye, astra",1911,0.89,189.1,0.84,70%,121.6,0.64,0.33,0.08,0.1,26%,15%
+wanheda,Cerda,Nazareth,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,Wint,"raze, killjoy, astra",1095,0.96,196.5,0.96,71%,129.8,0.69,0.23,0.08,0.07,16%,11%
+Lyda,ýýlayda,Gï¿½ï¿½zel,active,http://static.lolesports.com/players/1633033031951_silhouette.png,HERO,"jett, viper, raze",3880,1.06,214.0,1.07,73%,141.1,0.76,0.26,0.12,0.1,25%,15%
+6sonya,Maria,Istrate,active,http://static.lolesports.com/players/1633033031951_silhouette.png,O1O,"sova, breach, skye",3478,0.94,177.9,0.89,69%,120.1,0.63,0.31,0.07,0.07,26%,9%
+roxi,Vivian,Schilling,active,http://static.lolesports.com/players/1633033031951_silhouette.png,KC.GC,"killjoy, skye, astra",4803,0.97,191.9,0.97,69%,130.7,0.67,0.21,0.09,0.09,24%,16%
+BIA,Beatriz,Terra,active,,M28,"jett, reyna, viper",1601,0.96,202.9,0.98,68%,129.6,0.73,0.13,0.13,0.13,26%,13%
+aNNja,Anja,Vasalic,active,http://static.lolesports.com/players/1633033031951_silhouette.png,NSR.I,"raze, jett, sage",3413,1.16,235.9,1.19,73%,154.4,0.84,0.26,0.12,0.1,29%,14%
+Pinkalie,Julie,Lim,active,http://static.lolesports.com/players/1633033031951_silhouette.png,ZER.M,"omen, viper, sage",2888,1.02,196.4,0.99,73%,127.5,0.71,0.4,0.08,0.1,29%,23%
+Allurin,Yulia,Kostenko,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Oxuj,"sage, killjoy, cypher",456,0.92,185.2,0.89,69%,122.2,0.66,0.23,0.05,0.07,21%,12%
+niciplesss,Nikolett ,Keszeli,active,http://static.lolesports.com/players/1633033031951_silhouette.png,IRIS,"sage, killjoy, viper",979,0.88,181.9,0.86,65%,120.6,0.64,0.22,0.06,0.1,21%,16%
+HellRose,Ivelina ,Danova,active,http://static.lolesports.com/players/1633033031951_silhouette.png,IRIS,"skye, sage, viper",512,0.73,163.1,0.66,63%,108.0,0.53,0.34,0.08,0.14,16%,16%
+burzzy,Burak,ýýzveren,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,SUP,"omen, killjoy, raze",2389,1.0,214.1,0.99,71%,139.2,0.74,0.32,0.09,0.12,37%,14%
+Twenee1,Mickael,Annequin,active,http://static.lolesports.com/players/1633033031951_silhouette.png,TEN.N,"cypher, raze, omen",207,,184.8,0.82,,109.1,0.65,0.18,0.05,0.14,25%,4%
+xeus,Yusuf Doï¿½ï,Gï¿½ï¿½,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,EF,"jett, reyna, sage",1492,1.14,251.5,1.19,70%,166.4,0.89,0.18,0.19,0.17,30%,20%
+Glance,Anastasiya,Anisimova,active,http://static.lolesports.com/players/1633033031951_silhouette.png,KC.GC,"sova, breach, cypher",4950,1.01,186.2,1.01,76%,121.5,0.66,0.36,0.06,0.05,24%,16%
+rezq,Eda,Akï¿½ï¿½,active,http://static.lolesports.com/players/1681468177762_silhouette_transparent.png,G2.G,"sage, killjoy, chamber",2321,1.06,232.7,1.13,72%,150.6,0.82,0.22,0.18,0.16,26%,26%
+Joanne,Joanne ,Rae,active,http://static.lolesports.com/players/1633033031951_silhouette.png,MJY.M,"chamber, viper, sova",310,0.82,165.8,0.78,65%,113.8,0.56,0.21,0.04,0.08,22%,10%
+Dani,Daniela,Tavares,active,,TGH,"reyna, skye, raze",319,0.72,158.6,0.68,65%,109.1,0.55,0.2,0.09,0.14,22%,
+Kuripuuya,Ece Selin,Balï¿½ï¿½k,active,http://static.lolesports.com/players/1637006429686_placeholder.png,KC.GC,"astra, jett, viper",2671,0.93,188.5,0.88,69%,124.1,0.64,0.32,0.11,0.12,26%,17%
+Kim,Sophia,Benfakir,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GLD.GC,"astra, viper, sage",3004,0.93,177.7,0.88,73%,114.7,0.62,0.37,0.07,0.08,18%,18%
+Kaha,Katarzyna,Raniuszek,active,http://static.lolesports.com/players/1685348890001_silhouette_transparent.png,INC.GC,"viper, sova, omen",1783,0.97,183.2,0.91,69%,121.5,0.64,0.34,0.07,0.08,20%,11%
+susbake,Kayla,Hartley,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,NB,"gekko, yoru, sage",444,1.03,217.7,1.01,70%,144.0,0.76,0.23,0.11,0.11,34%,20%
+Thykuza,Thy,Truong,active,http://static.lolesports.com/players/1681468234334_silhouette_transparent.png,VLNT,"jett, skye, neon",2203,0.98,231.5,0.98,67%,149.8,0.79,0.24,0.18,0.18,21%,17%
+appa,Sebastian,Gonzalez,active,http://static.lolesports.com/players/1632348270397_silhouette.png,5HEA,"raze, chamber, jett",780,1.01,211.4,1.03,68%,139.3,0.77,0.16,0.15,0.13,27%,11%
+f6tal,Svetlana,Shidlovskaia,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SES,"jett, raze",647,0.95,221.1,0.97,64%,140.3,0.76,0.17,0.17,0.16,23%,9%
+Jade,Jade Violet,Duffy,active,http://static.lolesports.com/players/1633033031951_silhouette.png,(+4),"jett, raze, neon",1235,1.27,246.6,1.28,77%,157.8,0.88,0.41,0.12,0.08,32%,19%
+Cla,Clara,Rossi,active,http://static.lolesports.com/players/1633033031951_silhouette.png,NSR.I,"reyna, raze, cypher",3368,1.09,231.3,1.12,73%,150.7,0.81,0.22,0.15,0.13,21%,18%
+hindberjum,Marina ,Troitskaya,active,http://static.lolesports.com/players/1633033031951_silhouette.png,IRIS,"sova, viper, omen",730,0.81,175.5,0.74,63%,120.7,0.59,0.26,0.1,0.12,22%,13%
+Julie,Meitar Julie,Karni,active,http://static.lolesports.com/players/1681467067505_silhouette_transparent.png,TOG,"viper, sova, kayo",1359,0.82,163.8,0.74,67%,112.2,0.56,0.3,0.05,0.07,25%,12%
+skyleN,Asil,Yalï¿½ï¿,active,http://static.lolesports.com/players/1646063859962_placeholder.png,SUP,"sova, jett, breach",2940,0.98,185.6,0.95,73%,121.9,0.66,0.34,0.07,0.08,32%,19%
+Poetite,Atienza,Mercedes Goicoechea,active,http://static.lolesports.com/players/1637005967365_placeholder.png,Surr,"breach, viper, sova",1645,0.87,172.1,0.82,68%,116.6,0.59,0.29,0.07,0.08,25%,20%
+dati,Atila,Damla,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FUT.Fe,"sova, breach, astra",2855,0.93,176.7,0.86,72%,117.5,0.61,0.36,0.07,0.07,28%,21%
+kikowo,Shi Yun,Tan,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+5),"kayo, breach, yoru",361,0.82,178.1,0.78,63%,121.1,0.61,0.32,0.08,0.14,23%,10%
+margeaux,Dhammamitta,Marvella,active,,FSS,"omen, killjoy, brimstone",1684,0.99,194.1,0.98,72%,125.5,0.68,0.38,0.08,0.1,31%,20%
+Pooda,Kai Wen,Chuah,active,,DVT,"sova, fade, breach",337,0.92,162.9,0.84,70%,115.5,0.58,0.32,0.05,0.06,24%,9%
+olulu,Lim,Xin Ying,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,THE.K,"breach, skye, chamber",1470,0.98,198.5,0.92,72%,128.1,0.69,0.46,0.09,0.11,25%,12%
+skyelyse,Milka,Milka,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,N2F,"sage, kayo, jett",1146,1.04,216.3,1.05,72%,145.0,0.75,0.23,0.11,0.1,20%,12%
+Muffyn,Chalita,Buathong,active,,ALG.GC,"jett, raze, sova",3029,1.06,237.2,1.09,72%,151.3,0.8,0.22,0.19,0.16,19%,15%
+Rice,Claris,Yap,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,RIMA,"skye, cypher, killjoy",444,0.98,189.5,0.9,71%,125.2,0.65,0.34,0.11,0.09,27%,10%
+muffinloop,Akanksha,Sukhramani,active,,GEX,"reyna, jett, skye",1069,0.98,221.1,0.96,65%,144.5,0.77,0.24,0.16,0.16,27%,16%
+Lokkara,Maria,Khokhlova,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Impr,"sage, sova, breach",686,0.88,188.7,0.85,65%,127.0,0.66,0.2,0.09,0.09,19%,16%
+Ayaaa,Shara,Koshikawa,active,,RH,"jett, sage, phoenix",1428,0.99,228.9,1.0,68%,150.5,0.79,0.22,0.18,0.16,27%,17%
+RKNY,Adhe Amelia,Sirait,active,http://static.lolesports.com/players/1685952364787_silhouette_transparent.png,RIMA,"killjoy, cypher, chamber",484,1.12,226.9,1.11,72%,155.9,0.77,0.23,0.09,0.07,17%,15%
+Exequies,Vicedo,Abby,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,RIMA,"astra, viper, brimstone",402,0.84,164.1,0.8,68%,105.4,0.6,0.29,0.04,0.09,26%,15%
+shirah0sh1,Alyssandra,Par,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,RG,"killjoy, phoenix, reyna",376,0.86,185.6,0.84,62%,123.0,0.67,0.18,0.08,0.13,28%,14%
+Hanuh,Hanna Alyssa,Bermejo,active,,SISU,"sova, sage, breach",1756,1.07,204.3,1.06,72%,131.6,0.74,0.29,0.07,0.08,23%,16%
+veekay,Koh,Verlene,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,Devi,"omen, viper, breach",302,0.77,154.7,0.72,67%,102.3,0.55,0.26,0.08,0.09,19%,16%
+Tr1cks,Kyung In ,Lee,active,,ANC,"raze, reyna, sova",1269,1.03,209.9,1.0,70%,136.3,0.71,0.32,0.09,0.1,22%,16%
+kitkatwc,Charoensuk,Wanlapa,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,NE,"raze, sova, fade",1348,0.99,200.2,0.98,71%,132.8,0.7,0.31,0.09,0.08,22%,14%
+Snowwke,Kai En,Chin,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,PENT,"jett, reyna, astra",1367,0.96,211.8,0.97,71%,136.9,0.73,0.21,0.16,0.17,16%,14%
+Pannyx,Chonlapat,Bunthuvachiraporn,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,BMG,"sova, chamber, jett",384,0.94,189.0,0.91,67%,128.1,0.67,0.25,0.07,0.09,30%,11%
+poly,Patcharapron ,Sanitchai,active,,SISU,"astra, omen, viper",3631,1.0,198.5,1.0,73%,128.8,0.7,0.34,0.08,0.08,29%,19%
+crescents,Daltha Amellia,Dwiguna,active,,NWJ,"sage, omen, breach",1147,0.97,207.6,0.94,72%,131.9,0.7,0.37,0.09,0.11,20%,14%
+Lucidity,Sherlyn,Cheah,active,http://static.lolesports.com/players/1653897759126_silhouette_transparent.png,Oni,"kayo, jett, reyna",233,0.85,204.2,0.75,66%,134.9,0.64,0.3,0.16,0.2,17%,20%
+Jexter,Tazkya Alia,Yasmin,active,http://static.lolesports.com/players/1685952688099_silhouette_transparent.png,DIS.E,"killjoy, cypher, skye",389,0.82,199.2,0.83,64%,136.3,0.68,0.17,0.14,0.14,25%,14%
+lunah,Maximillian Lee,Stiles,active,http://static.lolesports.com/players/1632355524081_silhouette-female.png,PURR,"jett, raze, sova",591,1.04,223.2,1.07,71%,151.2,0.8,0.26,0.09,0.1,32%,10%
+Mauvaiz,Juankrajang,Thanatcha,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,Behi,"viper, breach, skye",276,0.8,155.7,0.69,64%,105.8,0.5,0.39,0.06,0.12,14%,15%
+metawiN,Anna,Ronauli,active,http://static.lolesports.com/players/1685952663196_silhouette_transparent.png,BIGG.S,"gekko, kayo, breach",691,0.92,175.5,0.88,70%,116.6,0.63,0.36,0.07,0.1,21%,27%
+yuchan,You Zhen,Ong ,active,,(+6),"astra, omen, raze",517,1.07,219.2,1.02,70%,148.7,0.76,0.31,0.11,0.12,27%,11%
+eluwu,Laraib ,Khan,active,,PURR,"jett, neon, chamber",718,1.0,226.8,1.02,66%,148.8,0.78,0.18,0.2,0.18,29%,16%
+bia,Beatriz,Terra,active,,M28,"jett, reyna, viper",1601,0.96,202.9,0.98,68%,129.6,0.73,0.13,0.13,0.13,26%,13%
+Samsi,Samantha,Caddell,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SK.N,"jett, raze, sova",2574,0.97,196.5,0.96,70%,131.5,0.69,0.22,0.09,0.09,18%,11%
+Cille,Cecilie,Kallio Ahlquist Lauritsen,active,http://static.lolesports.com/players/1637003999174_placeholder.png,HERO,"phoenix, omen, viper",2218,0.82,169.0,0.79,66%,114.1,0.6,0.28,0.06,0.1,29%,12%
+Yunaaa,Yohanna,Kayanaveda,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,RIMA,"kayo, omen, skye",562,1.01,192.0,0.97,72%,122.8,0.69,0.48,0.06,0.07,23%,13%
+babytz,Pornlapat,Wittayanan,active,,FSS,"reyna, killjoy, sage",3417,1.11,224.4,1.14,73%,147.4,0.79,0.25,0.1,0.1,19%,16%
+Meow16K,Saloni,Pawar,active,,GEX,"cypher, killjoy, astra",1181,0.86,183.7,0.81,63%,122.1,0.63,0.24,0.11,0.15,21%,16%
+Alyssa,Annitta,Peerwantanagul,active,http://static.lolesports.com/players/1663755897501_placeholder.png,FSS,"jett, raze, breach",1597,0.92,186.9,0.93,70%,123.8,0.66,0.23,0.07,0.11,28%,15%
+amy,Amy,Lai,active,http://static.lolesports.com/players/1633033031951_silhouette.png,PURR,"jett, raze, cypher",290,0.86,180.9,0.85,66%,115.7,0.62,0.21,0.06,0.12,18%,22%
+bittersweet,Hereva,Ariella ,active,http://static.lolesports.com/players/1685952597533_silhouette_transparent.png,BIGG.S,"omen, astra, brimstone",675,0.97,167.7,0.9,72%,112.3,0.62,0.42,0.04,0.04,28%,10%
+tub,Sakinah Jasmi,Nur ,active,,DVT,"jett, raze, gekko",836,0.86,193.4,0.86,67%,132.8,0.68,0.21,0.13,0.16,26%,16%
+shuni,Seane,Cabello,active,,(+3),"viper, breach, brimstone",446,0.84,163.0,0.75,74%,102.7,0.54,0.46,0.04,0.07,22%,6%
+sawamura,Mary Grace,Sabado,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SISU,"jett, killjoy, chamber",2466,0.99,203.4,1.02,69%,132.1,0.73,0.21,0.13,0.12,35%,18%
+Neli,Cornelia,Johansson,active,http://static.lolesports.com/players/1637004134293_placeholder.png,FKS.S,"raze, phoenix, jett",1595,0.97,193.1,0.93,70%,126.6,0.67,0.28,0.08,0.08,22%,12%
+elysian,Charlotte,Hummel,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FKS.S,"jett, breach, killjoy",1182,1.0,191.7,0.96,71%,128.2,0.68,0.31,0.05,0.06,29%,13%
+BitterZie,Pelin,Avï¿½ï,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Vals,"jett, raze, phoenix",546,0.82,182.1,0.83,66%,119.6,0.67,0.23,0.16,0.18,22%,17%
+sarah,sarah ,allen,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GX.GC,"reyna, chamber, jett",2864,0.93,187.8,0.93,71%,122.0,0.66,0.31,0.1,0.11,29%,18%
+F4INT,Lisa ,Heinsch,active,http://static.lolesports.com/players/1633033031951_silhouette.png,TOG,"sova, sage, chamber",716,0.95,199.4,0.91,70%,131.8,0.69,0.31,0.08,0.09,19%,17%
+dshq,Daria,Mishutina,active,http://static.lolesports.com/players/1637004113784_placeholder.png,HEET,"sova, kayo, breach",260,0.81,168.0,0.71,60%,117.7,0.57,0.25,0.07,0.14,16%,16%
+devilasxa,Paula,Blanco Martinez,active,http://static.lolesports.com/players/1633033031951_silhouette.png,O1O,"astra, skye, jett",1883,1.02,199.5,0.97,71%,131.8,0.7,0.39,0.07,0.08,32%,14%
+Rryka,Sheryl,SOKHA,active,http://static.lolesports.com/players/1681464126830_silhouette_transparent.png,Cram,"sova, breach, kayo",494,0.76,143.6,0.64,68%,94.0,0.48,0.48,0.02,0.06,21%,14%
+Sofia,Sofia,Chhiv,active,http://static.lolesports.com/players/1632421575941_silhouette-female.png,PXU.GC,"fade, sova, killjoy",347,0.77,156.4,0.7,61%,97.3,0.55,0.27,0.06,0.12,29%,18%
+Dream,Christopher,Myrick,active,http://static.lolesports.com/players/1632345562873_silhouette.png,VLNT,"astra, omen, sova",878,1.06,203.2,1.08,73%,132.7,0.71,0.26,0.07,0.06,22%,18%
+speedowka,Weronika,Dabrowska,active,http://static.lolesports.com/players/1633033031951_silhouette.png,KC.GC,"jett, sage, skye",3046,0.99,191.0,0.95,75%,123.5,0.68,0.41,0.07,0.08,30%,15%
+Joliinaa,Tina,Agï¿½ï¿,active,http://static.lolesports.com/players/1681894155522_placeholder.png,GX.GC,"jett, neon, raze",3451,1.2,231.7,1.2,76%,149.1,0.81,0.41,0.09,0.06,24%,21%
+Sephia,Reyhan,ýýimýýek,active,http://static.lolesports.com/players/1633033031951_silhouette.png,TU.O,"sage, skye, phoenix",3003,0.93,202.1,0.95,69%,131.7,0.72,0.29,0.11,0.11,34%,15%
+rainssa,Yaï¿½ï¿,ýýahin,active,http://static.lolesports.com/players/1633033031951_silhouette.png,BACK,"sage, viper, astra",3460,0.95,183.9,0.92,72%,122.8,0.66,0.33,0.07,0.08,23%,11%
+Nelo,Mathilde ,Beltoise,active,http://static.lolesports.com/players/1633033031951_silhouette.png,KC.GC,"viper, killjoy, cypher",4518,1.08,219.4,1.1,73%,143.4,0.78,0.27,0.11,0.08,32%,18%
+Panamera,Beyza ,ýýzen,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Tama,"astra, sova, kayo",303,0.75,161.0,0.66,60%,108.8,0.55,0.24,0.06,0.12,17%,2%
+sterben,Emre,Demirci,active,http://static.lolesports.com/players/1627378334862_placeholder.png,GAL,"sova, omen, brimstone",5965,1.06,205.2,1.06,72%,134.6,0.73,0.33,0.09,0.1,30%,18%
+ANGELKA,Angela ,Nikolovska,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FOG,"reyna, raze, jett",1455,0.84,184.6,0.78,67%,120.7,0.63,0.3,0.1,0.11,16%,9%
+mads,Maddie,Fenton,active,http://static.lolesports.com/players/1685348753982_silhouette_transparent.png,MDK,"skye, raze, sova",1079,1.18,240.9,1.19,75%,158.2,0.85,0.26,0.12,0.1,22%,16%
+jademwah,Jade,Duffy,active,http://static.lolesports.com/players/1681461182865_silhouette_transparent.png,O1O,"jett, sage, skye",3992,1.03,218.3,1.04,71%,138.7,0.76,0.31,0.13,0.14,20%,15%
+Didii,Lidia ,del Moral de la Torre,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,MDK,"jett, chamber, killjoy",1811,1.02,204.4,1.02,72%,137.5,0.72,0.3,0.11,0.09,23%,17%
+Lateu,Hilal,Yaï¿½ï,active,http://static.lolesports.com/players/1633033031951_silhouette.png,fuVi,"cypher, viper, killjoy",2805,0.93,187.1,0.91,71%,120.5,0.65,0.35,0.07,0.08,24%,13%
+Petra,Petra,Stoker,active,http://static.lolesports.com/players/1633033031951_silhouette.png,G2.G,"sova, astra, skye",4979,1.07,209.0,1.1,74%,137.9,0.73,0.31,0.09,0.1,25%,18%
+NELI,Cornelia,Johansson,active,http://static.lolesports.com/players/1637004134293_placeholder.png,FKS.S,"raze, phoenix, jett",1595,0.97,193.1,0.93,70%,126.6,0.67,0.28,0.08,0.08,22%,12%
+TPQ,Chiara,Van Imschoot,active,http://static.lolesports.com/players/1687851617304_silhouette_transparent.png,Veng,"cypher, breach, kayo",560,0.93,172.9,0.87,74%,112.7,0.61,0.44,0.05,0.08,23%,11%
+Luie,Gizem ,Harmankaya ,active,http://static.lolesports.com/players/1637004331938_placeholder.png,UP.F,"sova, sage, breach",380,0.83,158.6,0.77,65%,104.3,0.59,0.24,0.07,0.09,35%,17%
+Stormy,Elizaveta ,Poshekhnova,active,http://static.lolesports.com/players/1633033031951_silhouette.png,(+5),"reyna, phoenix, skye",734,0.86,180.9,0.86,62%,125.1,0.66,0.22,0.1,0.13,30%,14%
+LaAw,Mathieu,Plantin,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,KC.GC,"sage, sova, omen",1644,0.92,194.4,0.91,69%,123.2,0.68,0.26,0.09,0.09,24%,14%
+VenTT,Emre,Bozkurt,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SUP,"viper, omen, astra",1597,1.01,198.7,1.0,75%,129.7,0.71,0.39,0.08,0.09,32%,14%
+Roxi,Vivian,Schilling,active,http://static.lolesports.com/players/1633033031951_silhouette.png,KC.GC,"killjoy, skye, astra",4803,0.97,191.9,0.97,69%,130.7,0.67,0.21,0.09,0.09,24%,16%
+Jupi,Daniela,Gradl,active,http://static.lolesports.com/players/1633033031951_silhouette.png,XL.GC,"sage, killjoy, cypher",1210,0.92,183.3,0.89,68%,123.0,0.63,0.25,0.08,0.11,15%,11%
+Gia,Giavana,Dickinson,active,http://static.lolesports.com/players/1632365585222_silhouette-female.png,NAVI.C,"killjoy, cypher, sage",2795,1.02,205.3,1.07,71%,138.5,0.73,0.2,0.1,0.09,25%,16%
+Danah,Dana,Almadhoun,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FLCV,"raze, sage, sova",1371,0.98,213.9,0.94,70%,142.6,0.72,0.3,0.13,0.13,23%,12%
+B3AUTIFUL,Laureta,Hajra,active,http://static.lolesports.com/players/1637006163760_placeholder.png,ALL.C,"raze, omen, skye",1281,0.91,199.7,0.87,69%,133.9,0.67,0.26,0.08,0.12,12%,11%
+kyo,Lisa,Bianchi,active,http://static.lolesports.com/players/1637003965366_placeholder.png,ITB.P,"killjoy, sage, jett",679,0.99,193.5,0.9,69%,127.6,0.67,0.34,0.06,0.07,21%,11%
+LiriLia,Asma,Boughida,active,http://static.lolesports.com/players/1633033031951_silhouette.png,KC.GC,"sova, astra, skye",3753,0.92,177.4,0.88,72%,117.5,0.63,0.37,0.07,0.08,25%,15%
+majusia,Maja,Kwiryng,active,http://static.lolesports.com/players/1685348953642_silhouette_transparent.png,SK.N,"raze, chamber, jett",1786,0.99,224.1,1.01,67%,148.5,0.79,0.19,0.2,0.18,26%,16%
+dociless,Sude,Sancak,active,http://static.lolesports.com/players/1637005788662_placeholder.png,SANGAL,"sage, killjoy, cypher",682,0.76,167.4,0.71,62%,114.2,0.58,0.18,0.07,0.1,21%,5%
+miyori,Eylï¿½ï,Sudem Sarï¿½ï¿½o,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GX.GC,"killjoy, viper, jett",2902,1.02,222.5,1.06,69%,145.6,0.78,0.18,0.16,0.15,25%,22%
+Karina,Karina,Wurm,active,http://static.lolesports.com/players/1682160093050_silhouette_transparent.png,FKS.S,"sage, viper, sova",1925,0.98,194.2,1.0,68%,129.7,0.71,0.2,0.08,0.07,33%,13%
+nookyyy,Andre,Utesch,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Valo,"sova, viper, brimstone",290,0.79,170.5,0.75,58%,116.0,0.57,0.29,0.05,0.09,28%,14%
+Xaline,Laure,Mateos,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Huge,"killjoy, sage, viper",2754,0.96,198.2,0.94,68%,133.7,0.68,0.21,0.08,0.09,19%,14%
+Ginabina,Georgina ,Millam,active,http://static.lolesports.com/players/1633033031951_silhouette.png,5IQ,"raze, sova, viper",403,0.87,198.7,0.86,63%,131.8,0.69,0.19,0.07,0.11,21%,10%
+Mary,Mariam,Maher,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FLCV,"sova, viper, jett",1271,1.18,255.4,1.26,73%,167.2,0.89,0.23,0.17,0.14,31%,20%
+Liyan,Nilay,Buluï¿,active,http://static.lolesports.com/players/1637004468574_placeholder.png,HOWL.M,"astra, viper, omen",1601,0.95,183.4,0.93,69%,123.0,0.65,0.27,0.07,0.07,20%,16%
+Crewen,Ali Eren,Sargï¿½,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,BCF,"astra, viper, sage",1606,1.01,199.1,1.03,71%,135.2,0.71,0.23,0.09,0.09,30%,18%
+Liza,Elizabeth,Luybovina,active,http://static.lolesports.com/players/1681467403844_silhouette_transparent.png,VLNT,"killjoy, viper, sage",2376,1.06,220.7,1.1,68%,145.4,0.8,0.15,0.13,0.11,33%,15%
+kv7m,Claudia,Nagy,active,http://static.lolesports.com/players/1681468884442_silhouette_transparent.png,UNta,"viper, raze, jett",730,0.98,191.5,0.94,71%,126.0,0.68,0.37,0.06,0.08,31%,15%
+Looxie,Lï¿½ï,Loustau,active,http://static.lolesports.com/players/1633033031951_silhouette.png,(+9),"cypher, viper, chamber",1996,0.93,187.4,0.91,69%,123.3,0.66,0.25,0.09,0.09,34%,20%
+Bee,Bee,Bradbury,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,CEL,"neon, raze, killjoy",289,1.02,220.7,1.08,69%,138.4,0.79,0.2,0.11,0.09,25%,8%
+Aranel,Sara,Lippolis,active,,LXT,"viper, brimstone, killjoy",349,1.06,201.0,0.98,71%,133.6,0.73,0.25,0.05,0.06,31%,13%
+Desi,Desiree,Ott,active,http://static.lolesports.com/players/1681465408181_silhouette_transparent.png,FKS.S,"sage, skye, sova",1444,0.97,193.9,0.93,70%,127.4,0.68,0.32,0.07,0.07,26%,17%
+desi,Desiree,Ott,active,http://static.lolesports.com/players/1681465408181_silhouette_transparent.png,FKS.S,"sage, skye, sova",1444,0.97,193.9,0.93,70%,127.4,0.68,0.32,0.07,0.07,26%,17%
+KILLITAST,Catarina ,Loureiro,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SKULL,"sage, sova, breach",335,0.92,207.8,0.88,67%,136.6,0.73,0.28,0.12,0.09,23%,9%
+Safiaa,Safia,Leghzal,active,,GnG.W,"brimstone, killjoy, raze",1346,1.0,189.6,0.97,70%,132.6,0.68,0.23,0.09,0.08,29%,17%
+auri,Aureja,Venslaviciute,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,HERO,"cypher, killjoy, viper",838,0.91,184.0,0.85,66%,130.3,0.65,0.22,0.09,0.09,26%,8%
+Harmonee,Nathalie,Bieber,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,aTTaX,"viper, breach, kayo",1402,0.88,172.1,0.83,68%,118.7,0.59,0.28,0.07,0.1,27%,19%
+er1no,Erin,Goonan,active,http://static.lolesports.com/players/1685348687370_silhouette_transparent.png,axol,"harbor, cypher, killjoy",868,0.79,169.4,0.76,63%,114.7,0.6,0.19,0.08,0.11,23%,10%
+mimi,Michaela,Lintrup,active,http://static.lolesports.com/players/1633033031951_silhouette.png,G2.G,"astra, cypher, sage",4979,1.15,209.2,1.21,76%,138.3,0.75,0.34,0.09,0.07,27%,15%
+Julis,Aï¿½ï¿½e,ýýzgen,active,http://static.lolesports.com/players/1633033031951_silhouette.png,fuVi,"viper, sage, breach",1605,1.01,194.0,1.0,73%,125.4,0.7,0.32,0.06,0.06,23%,15%
+Lami,Laura ,Maryakhina,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SWAG,"breach, sova, fade",215,0.77,160.2,0.71,63%,107.6,0.55,0.27,0.03,0.08,22%,14%
+SUPERPHROG,Isabelle,Skarsten,active,http://static.lolesports.com/players/1681465240243_silhouette_transparent.png,HERO,"jett, kayo, chamber",1837,0.89,194.7,0.91,65%,127.6,0.7,0.14,0.14,0.15,31%,14%
+Nescargot,Inï¿½,Gorlez,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,Team,"brimstone, killjoy, cypher",418,0.96,180.7,0.92,69%,120.5,0.62,0.28,0.07,0.08,32%,9%
+juliano,Julia,Kiran,active,http://static.lolesports.com/players/1633033031951_silhouette.png,G2.G,"viper, sage, astra",1826,1.1,239.3,1.18,72%,155.7,0.82,0.25,0.16,0.14,22%,15%
+Satiqa,Nadia ,Sergeevna Russu,active,http://static.lolesports.com/players/1633033031951_silhouette.png,EG,"cypher, jett, raze",269,0.79,186.4,0.74,64%,128.3,0.61,0.26,0.1,0.14,21%,8%
+Toki,Maria,Perez Perez,active,http://static.lolesports.com/players/1651482869592_placeholder.png,FLCV,"jett, raze, chamber",1696,1.18,258.2,1.2,71%,166.7,0.89,0.18,0.21,0.16,26%,19%
+Nidxvilco,Nicole,Dobrovolskyy,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,MDK,"omen, neon, astra",1117,1.02,188.7,1.01,71%,123.9,0.68,0.33,0.06,0.08,26%,17%
+Gloomy,Can Merkan,ýýzalp,active,http://static.lolesports.com/players/1644363947862_silhouette_transparent.png,HOWL,"sage, brimstone, breach",1764,0.89,172.7,0.85,70%,115.1,0.58,0.29,0.08,0.1,21%,11%
+Carcass,Robertas,Mikuckis,archived,http://static.lolesports.com/players/1637004092332_placeholder.png,G2.G,"brimstone, jett, omen",2101,0.97,208.5,0.99,69%,130.0,0.72,0.18,0.15,0.12,18%,12%
+rAx,Marcel,Klenner,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Valo,"cypher, breach, sova",395,0.87,164.9,0.71,63%,117.9,0.57,0.26,0.08,0.13,27%,18%
+Iczy,Klaudia,Winiarska,active,http://static.lolesports.com/players/1685348976263_silhouette_transparent.png,INC.GC,"raze, sage, omen",1507,0.86,160.3,0.8,69%,105.5,0.58,0.37,0.03,0.08,24%,13%
+OYKU,ýýykýý Sezin,Bï¿½ï¿½,active,http://static.lolesports.com/players/1633033031951_silhouette.png,NIP.LI,"viper, omen, astra",2333,0.97,188.7,0.94,71%,123.7,0.66,0.27,0.06,0.08,20%,12%
+Miona,Bahar ,Yï¿½ï¿½,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SANGAL,"sova, viper, killjoy",214,0.75,175.9,0.71,61%,118.0,0.6,0.22,0.05,0.12,25%,4%
+allurin,Yulia,Kostenko,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Oxuj,"sage, killjoy, cypher",456,0.92,185.2,0.89,69%,122.2,0.66,0.23,0.05,0.07,21%,12%
+Anva,Nehir ,Dinï¿½ï,active,http://static.lolesports.com/players/1633033031951_silhouette.png,fuVi,"jett, skye, sage",1773,0.99,208.5,0.98,69%,138.6,0.72,0.22,0.1,0.1,23%,12%
+KXoma,Monika,ýýýýýýovýý,active,http://static.lolesports.com/players/1687853453371_silhouette_transparent.png,FKS.S,"astra, breach, skye",1139,0.89,160.9,0.77,70%,109.7,0.57,0.39,0.05,0.06,28%,9%
+sasquatch,Kevin,Hoppey,active,http://static.lolesports.com/players/1690156099023_silhouette_transparent.png,(+3),"jett, cypher, sage",260,0.86,169.6,0.78,64%,108.6,0.61,0.23,0.05,0.07,23%,11%
+RacheLL,Rachel ,Kujawa,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Exal,"sova, cypher, phoenix",626,1.17,224.7,1.18,78%,146.9,0.78,0.43,0.06,0.07,17%,13%
+meryl,Martyna,Jachimowicz,active,http://static.lolesports.com/players/1685348926147_silhouette_transparent.png,INC.GC,"skye, breach, sage",1684,0.94,179.2,0.87,73%,116.8,0.63,0.42,0.07,0.08,22%,13%
+Yukina,Luana,Lasiu,active,,HeX,"skye, raze, cypher",203,0.8,182.1,0.77,62%,128.4,0.64,0.18,0.09,0.08,20%,10%
+Anima,AYDIN,Uï¿½ï¿½U,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,EF,"breach, sage, kayo",1564,1.08,195.1,1.02,76%,131.1,0.67,0.45,0.06,0.06,25%,14%
+Boogie,Manuel,Palomo,active,,PATH,"cypher, killjoy, sova",378,0.86,187.9,0.8,65%,125.4,0.65,0.24,0.09,0.15,21%,23%
+grahams,Leanne,Ti-in,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SISU,"gekko, skye, reyna",769,1.14,233.9,1.16,75%,150.2,0.81,0.28,0.12,0.12,35%,15%
+cc,Laura,P,active,http://static.lolesports.com/players/1632421380406_silhouette-female.png,ARC,"sova, raze, breach",418,1.04,200.3,0.9,72%,124.7,0.68,0.3,0.07,0.11,15%,11%
+NicoleG,Grumal,Rissa Nicole,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,SRN,"sage, killjoy, chamber",300,0.86,185.9,0.78,57%,125.5,0.64,0.14,0.09,0.1,27%,10%
+gWenn,Salsabila,Kultsum,active,,RH,"reyna, raze, skye",1180,0.87,170.6,0.81,70%,113.3,0.61,0.35,0.04,0.07,21%,17%
+PIETY,De Guia,Kim,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,SISU,"kayo, sova, killjoy",1827,1.06,211.0,1.03,72%,141.4,0.73,0.31,0.09,0.08,29%,11%
+Yanni,Katelyn Arianna T.,Manahan,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,RIMA,"raze, yoru, jett",328,0.9,208.1,0.86,70%,143.3,0.69,0.24,0.16,0.16,20%,9%
+opel,Risalma,Agnia,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,PURR,"omen, sage, astra",1925,1.07,194.3,1.06,75%,127.0,0.69,0.41,0.06,0.06,18%,15%
+marche,Meidy Safira,Permata,active,http://static.lolesports.com/players/1678687827328_Placeholder.png,NWJ,"killjoy, chamber, skye",1006,0.84,161.8,0.77,70%,106.9,0.56,0.37,0.07,0.09,22%,17%
+Rudys,Yanisa,Hingkanond,active,,NE,"astra, omen, sage",820,0.89,162.7,0.79,72%,109.9,0.56,0.37,0.03,0.05,19%,9%
+sombd1,Mary Grace,Sabado,active,,(+5),"killjoy, neon, jett",259,1.03,188.9,1.05,71%,125.6,0.68,0.22,0.07,0.08,35%,5%
+aphrolyn,Aulia Brillian,Putri,active,http://static.lolesports.com/players/1651480726061_placeholder.png,DEWA.B,"sova, sage, breach",489,0.92,175.8,0.83,72%,117.8,0.61,0.37,0.04,0.05,21%,6%
+Baila,Abisha,Joseph,active,http://static.lolesports.com/players/1678687880983_Placeholder.png,N2F,"killjoy, cypher",376,0.84,177.5,0.81,64%,122.3,0.62,0.14,0.07,0.1,23%,16%
+KiRi,Keerti ,Mirani,active,http://static.lolesports.com/players/1678690007782_Placeholder.png,N2F,"chamber, killjoy, sova",761,0.84,167.4,0.74,65%,112.9,0.56,0.3,0.06,0.07,23%,13%
+cjsakura,Jolene,Cheh,active,,Erit,"omen, viper, breach",565,0.83,163.8,0.73,68%,105.8,0.57,0.41,0.04,0.09,26%,9%
+JinNy,Wanothayarnchai,Sarindhorn,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,ALG.GC,"omen, breach, brimstone",4372,1.03,176.8,0.92,74%,115.7,0.62,0.35,0.05,0.06,23%,13%
+Ivory,Regina,Lopez,active,,RH,"viper, omen, brimstone",1804,0.93,201.3,0.93,70%,130.6,0.7,0.25,0.11,0.12,19%,18%
+Makchin,Maxine Rei O,Arcega,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,BAS.K,"reyna, raze, jett",388,0.92,226.6,0.9,63%,144.4,0.75,0.16,0.17,0.22,24%,22%
+mmoopingx,Kwanjira ,Polom,active,,FS.P,"killjoy, phoenix, skye",494,0.97,181.9,0.87,70%,125.5,0.62,0.29,0.08,0.07,17%,13%
+Sampphire,Samantha Penelope,Kotambunan,active,http://static.lolesports.com/players/1685952622401_silhouette_transparent.png,MLT.GC,"breach, fade, sova",1208,0.98,174.3,0.9,73%,119.0,0.62,0.37,0.04,0.04,25%,16%
+yyAmroll,Chairattanangamdaj,Sakonrapat,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,NE,"raze, jett, killjoy",922,0.99,212.5,0.97,73%,135.6,0.72,0.33,0.15,0.12,19%,11%
+pigruto,Tenia,Xu Yuan,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,CBD,"killjoy, sova, jett",384,0.59,122.8,0.53,54%,85.9,0.42,0.16,0.04,0.1,22%,9%
+piety,De Guia,Kim,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,SISU,"kayo, sova, killjoy",1827,1.06,211.0,1.03,72%,141.4,0.73,0.31,0.09,0.08,29%,11%
+delbisky,Fiona,Noreen,active,http://static.lolesports.com/players/1678687924255_Placeholder.png,BOBA,"raze, omen, sage",1480,0.94,195.2,0.93,69%,127.5,0.69,0.22,0.12,0.1,26%,13%
+Chateraise,Claudia wijaya,Zefania,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,THE.K,"brimstone, viper, sova",354,0.81,164.3,0.73,64%,110.0,0.55,0.29,0.06,0.08,20%,15%
+Mimo,Korada ,Chantongsri,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,230,"killjoy, cypher",230,0.86,170.1,0.83,66%,117.7,0.59,0.14,0.04,0.05,22%,9%
+Marpandyz,Phannika ,Nagam,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+3),"chamber, sova, skye",274,0.84,169.1,0.81,63%,109.0,0.59,0.25,0.08,0.08,18%,13%
+Aisling,Serdiï¿½ï¿,Ann Mikaela,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,THE.K,"brimstone, omen, viper",1695,0.99,180.0,0.94,74%,116.1,0.63,0.44,0.06,0.08,20%,17%
+ArinJi,Anurak,Namwicha ,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+1),"raze, gekko, omen",292,0.92,208.8,0.89,69%,143.8,0.71,0.22,0.13,0.13,21%,24%
+pannyx,Chonlapat,Bunthuvachiraporn,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,BMG,"sova, chamber, jett",384,0.94,189.0,0.91,67%,128.1,0.67,0.25,0.07,0.09,30%,11%
+afterglow,Clarisse,Lim,active,http://static.lolesports.com/players/1653897920651_silhouette_transparent.png,(+2),"viper, kayo, breach",224,0.67,147.5,0.63,64%,96.5,0.5,0.22,0.05,0.05,27%,11%
+interbel,Belinda,Peh,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,Toxi,"brimstone, sova, viper",231,0.84,173.8,0.79,66%,115.2,0.6,0.31,0.1,0.13,17%,11%
+elfie,Aria,Mizuguchi,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,MKS,"raze, reyna, jett",505,1.23,252.2,1.18,73%,166.3,0.89,0.25,0.12,0.12,28%,22%
+QiQi,Edrea,Ng,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,Ay,"astra, killjoy, viper",278,0.85,177.9,0.83,69%,120.9,0.63,0.26,0.05,0.09,23%,27%
+tess,  Tess ,  Wong,active,,MLT.GC,"jett, killjoy, raze",342,0.91,178.7,0.84,69%,119.1,0.6,0.23,0.05,0.07,31%,16%
+capybara,Monica,capybara,active,http://static.lolesports.com/players/1685952711189_silhouette_transparent.png,BIGG.S,"raze, jett",691,1.0,226.1,1.0,69%,150.9,0.8,0.2,0.16,0.18,25%,16%
+Pichy,Masungnern,Pichchapha,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,SAVA,"kayo, cypher, chamber",443,0.97,204.3,0.91,69%,132.1,0.69,0.33,0.08,0.09,19%,22%
+ShreyUwU,Shreya,Prasad,active,,Waff,"killjoy, viper, phoenix",308,0.84,171.1,0.79,62%,114.9,0.58,0.23,0.08,0.1,36%,20%
+yaamorii,Anatasya Aura Cinta,Tulung,active,http://static.lolesports.com/players/1678687776956_Placeholder.png,BIGG.S,"jett, skye, chamber",1512,0.89,198.3,0.89,67%,129.8,0.71,0.17,0.16,0.15,23%,12%
+Mikkasie,Tecson,Mikka Ella,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,BRNV,"cypher, jett, raze",677,0.89,208.2,0.87,69%,139.2,0.69,0.24,0.12,0.14,18%,9%
+syd89,Cyril Bien L.,Aribon,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+1),"omen, brimstone, kayo",304,0.77,144.9,0.66,65%,98.5,0.5,0.38,0.04,0.06,30%,15%
+Jelerak,Pichchapha ,Masungnern,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+5),"kayo, brimstone, sage",230,0.87,175.7,0.81,70%,108.2,0.59,0.38,0.1,0.13,17%,20%
+Hyphae,Jagruti,Moholkar,active,http://static.lolesports.com/players/1678687853782_Placeholder.png,GEX,"skye, killjoy",211,0.92,193.8,0.98,65%,137.1,0.72,0.12,0.1,0.11,24%,4%
+Naturale,Valencia,Jane,active,,BIGG.S,"jett, sova, breach",306,0.88,190.6,0.86,68%,123.3,0.69,0.22,0.12,0.15,25%,12%
+alyssa,Annitta,Peerwantanagul,active,,FSS,"jett, raze, breach",1597,0.92,186.9,0.93,70%,123.8,0.66,0.23,0.07,0.11,28%,15%
+shina,Jayvee Michaela,Garcia,active,,4F,"killjoy, chamber, cypher",782,0.97,194.0,0.94,66%,132.3,0.68,0.17,0.11,0.09,28%,17%
+toffywoffy,Tiffany,Lim ,active,,DVT,"killjoy, brimstone, breach",816,0.86,181.9,0.8,63%,125.7,0.61,0.24,0.1,0.11,20%,16%
+Skel,Syeda Ayesha Samman,Shah,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SRN,"sova, killjoy, chamber",512,0.79,173.3,0.72,65%,120.8,0.58,0.29,0.07,0.12,22%,8%
+BriTSy,Iqra,Khan,active,,ALM.D,"sova, kayo, breach",380,0.74,147.4,0.65,62%,104.2,0.5,0.28,0.03,0.07,20%,12%
+phi,Phi,Espino,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SZE,"omen, cypher, killjoy",225,0.66,155.4,0.67,60%,100.5,0.52,0.21,0.07,0.18,22%,13%
+Arki,Zeireen Jadee,Romaraog,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,AVN.GC,"breach, cypher, omen",304,0.84,170.8,0.76,64%,114.3,0.6,0.34,0.05,0.1,19%,10%
+Pigruto,Xu,Tenia,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,CBD,"killjoy, sova, jett",384,0.59,122.8,0.53,54%,85.9,0.42,0.16,0.04,0.1,22%,9%
+Rose,Eren,Erzan,active,http://static.lolesports.com/players/1646063921215_placeholder.png,N2F,"breach, viper, fade",729,0.79,149.7,0.67,68%,97.5,0.51,0.43,0.04,0.04,21%,14%
+kon,Loraine Nicole,Pagente,active,,SISU,"sova, breach, skye",1949,1.05,215.1,1.02,70%,147.0,0.75,0.28,0.09,0.09,31%,11%
+Angela,Petrovic,Angela,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,NF,"breach, kayo, chamber",874,0.95,220.2,0.99,69%,142.3,0.76,0.21,0.16,0.2,20%,13%
+ruu,Elva,Koh,active,,ARF.S,"viper, raze, cypher",269,0.75,160.9,0.68,64%,107.1,0.53,0.22,0.04,0.09,18%,11%
+Kon,Loraine Nicole,Pagente,active,,SISU,"sova, breach, skye",1949,1.05,215.1,1.02,70%,147.0,0.75,0.28,0.09,0.09,31%,11%
+Kathrina,Kathrina Kaye M,Catap,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+1),"gekko, skye, sova",304,0.84,178.7,0.75,67%,114.1,0.59,0.33,0.04,0.11,15%,15%
+scaroo,Keane,Andiani,active,http://static.lolesports.com/players/1651480750446_silhouette_transparent.png,BIGG,"jett, raze, neon",219,0.79,181.1,0.73,65%,117.8,0.58,0.26,0.13,0.14,20%,13%
+Bugsy,Alessandra Mae G.,Godoy,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+4),"deadlock, fade, killjoy",367,0.99,204.2,0.98,71%,130.1,0.73,0.32,0.09,0.09,27%,6%
+Dyummy,Thansuda ,Prayong,active,,FS.P,"sova, fade, kayo",496,0.8,159.5,0.75,67%,104.9,0.59,0.4,0.06,0.09,26%,6%
+Sou,Sarah  ,Abdelfattah,active,http://static.lolesports.com/players/1633033031951_silhouette.png,ARC,"killjoy, cypher, sage",843,0.75,154.5,0.71,64%,104.4,0.54,0.24,0.05,0.1,23%,13%
+Pretzel,Benyapa,Tangkasemwiboon,active,,FS.P,"sova, fade, skye",458,0.95,200.0,0.97,65%,131.3,0.71,0.17,0.13,0.12,26%,7%
+Valentine,Thun,Isabelle,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,X,"sova, chamber, fade",355,0.8,169.3,0.73,63%,111.5,0.57,0.23,0.09,0.08,23%,10%
+Tweeya,Tria Mae Manabat,Manos,active,,(+4),"omen, astra, brimstone",861,0.98,197.9,0.92,72%,129.9,0.67,0.4,0.05,0.07,18%,11%
+showliana,Juiana Maransaldi,Canelas,active,http://static.lolesports.com/players/1632350286184_silhouette-female.png,KRï¿½ï,"sova, breach, viper",2924,1.01,196.7,0.96,70%,130.2,0.68,0.32,0.07,0.07,22%,14%
+sonder,Diana,Zhang,active,,FLY.R,"reyna, phoenix, jett",7484,1.02,230.3,1.02,72%,148.4,0.77,0.34,0.16,0.16,22%,16%
+Maddie,Madison,Mann,active,http://static.lolesports.com/players/1681051519585_silhouette_transparent.png,FaZe,"jett, sage, phoenix",2028,0.86,193.3,0.83,69%,127.2,0.66,0.28,0.09,0.13,25%,13%
+jules,Julia,Dominguez,active,,YCHT,"kayo, killjoy, skye",281,0.92,186.4,0.86,72%,132.4,0.64,0.2,0.05,0.06,29%,6%
+Alexe1337,Alexandra,Caron,active,http://static.lolesports.com/players/1632346386227_silhouette-female.png,22,"phoenix, brimstone, kayo",259,0.91,205.8,0.82,62%,133.5,0.66,0.28,0.09,0.14,20%,16%
+zecK,Addison,Gorzeck,active,http://static.lolesports.com/players/1632364647068_silhouette-female.png,EG,"sage, omen, brimstone",1008,,180.0,0.83,,121.8,0.62,0.29,0.05,0.07,19%,9%
+bENITA,Benita,Novshadian,active,http://static.lolesports.com/players/1632349358887_silhouette-female.png,LIL,"sova, sage, reyna",3859,0.94,193.7,0.89,69%,128.0,0.65,0.33,0.09,0.11,24%,18%
+LunaFox,Luna,Ryan,active,http://static.lolesports.com/players/1632346940265_silhouette-female.png,KS,"sova, kayo, viper",3028,0.98,204.2,0.92,69%,140.6,0.68,0.34,0.08,0.1,25%,15%
+Steph,Stephanie,Lee,active,http://static.lolesports.com/players/1632420557315_silhouette-female.png,T1A,"phoenix, raze, omen",1806,0.93,187.9,0.89,67%,129.6,0.67,0.2,0.09,0.1,29%,13%
+peachtea,Grace,Zhou,active,http://static.lolesports.com/players/1632420605201_silhouette-female.png,TMV,"sova, omen, breach",740,0.77,150.6,0.69,64%,100.2,0.53,0.28,0.04,0.07,30%,8%
+Aika,Matsui,Ayami,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,FH,"kayo, sage, chamber",2493,1.01,208.6,1.01,71%,135.5,0.73,0.26,0.11,0.13,23%,13%
+mle,Emily,Peters,active,http://static.lolesports.com/players/1632364613002_silhouette-female.png,FLY.R,"jett, sage, phoenix",3926,0.95,189.8,0.93,71%,124.6,0.66,0.29,0.09,0.1,24%,13%
+athxna,Mirna,Noureldin,active,http://static.lolesports.com/players/1632364510185_silhouette-female.png,FLY.R,"killjoy, viper, sage",3756,0.91,184.8,0.92,69%,121.9,0.66,0.29,0.08,0.1,28%,13%
+keenc,Chaspaul,Chahal,active,http://static.lolesports.com/players/1681050905628_silhouette_transparent.png,EG.GC,"raze, killjoy, chamber",2064,1.4,291.4,1.57,78%,181.8,1.03,0.2,0.2,0.09,19%,18%
+emluo,Emily,Bach,active,http://static.lolesports.com/players/1681050831713_silhouette_transparent.png,PAW,"killjoy, cypher, sage",3433,1.01,204.8,1.02,69%,136.4,0.73,0.19,0.11,0.1,34%,17%
+dodonut,Karnthida,Chaisrekeo,active,http://static.lolesports.com/players/1632364575170_silhouette-female.png,FLY.R,"viper, jett, raze",6799,1.21,246.6,1.24,74%,162.2,0.86,0.26,0.16,0.12,23%,22%
+CBUI,Catherine,Bui,active,http://static.lolesports.com/players/1632365253357_silhouette-female.png,PP,"viper, astra, omen",3265,0.99,187.5,0.95,73%,123.4,0.66,0.4,0.07,0.07,23%,15%
+Grego,Gregory,McAllen,active,http://static.lolesports.com/players/1681051401785_silhouette_transparent.png,MSF,"reyna, omen, raze",960,0.87,184.1,0.8,65%,121.4,0.63,0.26,0.1,0.12,22%,13%
+jenna,Jenna,Royer,active,http://static.lolesports.com/players/1632346412796_silhouette-female.png,YFPB,"sova, sage, omen",517,0.73,150.0,0.64,59%,103.3,0.5,0.21,0.04,0.07,20%,11%
+LeahPanda,Leah,Nemchin-Cossman,active,http://static.lolesports.com/players/1632364545356_silhouette-female.png,Wild,"sova, breach, killjoy",2703,0.86,168.9,0.79,69%,111.9,0.57,0.33,0.05,0.07,16%,13%
+Kamiunist,Viranika,Tulina,active,http://static.lolesports.com/players/1632351486669_silhouette-female.png,Thri,"jett, skye, chamber",1010,0.86,198.5,0.86,65%,129.2,0.69,0.26,0.1,0.15,21%,14%
+clawdia,Claudia,Che,active,http://static.lolesports.com/players/1632349389098_silhouette-female.png,COL,"omen, jett, reyna",5352,0.97,199.6,0.97,71%,132.0,0.68,0.23,0.11,0.11,22%,13%
+Lynn,Lynn,Clarke,active,http://static.lolesports.com/players/1632350766346_silhouette-female.png,GENG,"jett, raze, breach",1280,0.9,219.8,0.91,65%,144.4,0.75,0.2,0.17,0.2,20%,14%
+Showliana,Juliana ,Maransaldi,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,KRï¿½ï,"sova, breach, viper",2924,1.01,196.7,0.96,70%,130.2,0.68,0.32,0.07,0.07,22%,14%
+Carlee,Carlee,Gress,active,http://static.lolesports.com/players/1632350661641_silhouette-female.png,mfs,"sage, raze, phoenix",2927,0.93,178.1,0.89,70%,118.4,0.61,0.31,0.05,0.08,25%,18%
+Jules,Julia,Dominguez,active,,YCHT,"kayo, killjoy, skye",281,0.92,186.4,0.86,72%,132.4,0.64,0.2,0.05,0.06,29%,6%
+LAZYLION,Nathan,Hoang,active,http://static.lolesports.com/players/1690153015486_silhouette_transparent.png,DSG,"sova, breach, jett",4312,1.02,205.9,1.03,71%,135.6,0.73,0.29,0.09,0.09,27%,14%
+Apidaez,Shelby,Freitas,active,http://static.lolesports.com/players/1632346528606_silhouette-female.png,YFPB,"omen, viper, astra",669,0.7,143.4,0.64,66%,93.8,0.48,0.3,0.05,0.08,14%,14%
+Panini,Vanessa,Emory,active,http://static.lolesports.com/players/1632344407755_silhouette-female.png,oomf,"omen, astra, viper",5098,1.0,192.7,0.97,73%,126.4,0.68,0.3,0.07,0.07,24%,10%
+Kaya,Nekrassova ,Yekaterina,active,http://static.lolesports.com/players/1633033031951_silhouette.png,YFP,"sage, breach, fade",613,0.92,181.5,0.86,66%,122.5,0.66,0.13,0.09,0.08,27%,12%
+refinnej,Jennifer,Le,active,http://static.lolesports.com/players/1681051448719_silhouette_transparent.png,FaZe,"sova, breach, sage",1613,0.94,190.2,0.93,68%,129.2,0.67,0.19,0.08,0.09,22%,13%
+misu,Xanna,Kim-Alaniz,active,http://static.lolesports.com/players/1690152677298_silhouette_transparent.png,RF.GC,"sova, brimstone, viper",2531,1.0,188.0,0.97,73%,125.2,0.66,0.38,0.06,0.06,24%,13%
+miyara,Tatyana,Babb,active,http://static.lolesports.com/players/1690155816456_silhouette_transparent.png,SaD,"sova, skye, sage",1465,0.92,178.5,0.82,71%,120.4,0.61,0.35,0.04,0.06,22%,8%
+cbui,Catherine,Bui,active,http://static.lolesports.com/players/1632365253357_silhouette-female.png,PP,"viper, astra, omen",3265,0.99,187.5,0.95,73%,123.4,0.66,0.4,0.07,0.07,23%,15%
+amnesia,Annyssa ,Rios,active,http://static.lolesports.com/players/1632349376576_silhouette-female.png,CLG,"killjoy, sage, cypher",1941,0.92,181.2,0.91,68%,118.1,0.64,0.2,0.07,0.09,19%,16%
+kxtieoh,Katie,Beene,active,http://static.lolesports.com/players/1632911234096_silhouette.png,MSF,"sova, sage, brimstone",2020,0.92,174.9,0.9,70%,115.9,0.62,0.3,0.05,0.07,21%,17%
+Jasprr,Jasmyn,Sanchez,active,http://static.lolesports.com/players/1632364781822_silhouette-female.png,FG,"cypher, viper, chamber",334,0.77,158.1,0.68,59%,107.3,0.53,0.22,0.04,0.09,23%,9%
+panday,Joseph (June),Rapoza,active,http://static.lolesports.com/players/1681051642474_silhouette_transparent.png,oomf,"killjoy, viper, chamber",3848,0.99,197.7,0.99,71%,129.9,0.7,0.26,0.09,0.08,29%,15%
+Kay,Kaylen,Ruddell,active,http://static.lolesports.com/players/1632348950574_silhouette-female.png,IMT,"cypher, jett, killjoy",1581,0.92,193.4,0.95,65%,129.9,0.69,0.15,0.1,0.13,29%,16%
+carlee,Carlee,Gress,active,http://static.lolesports.com/players/1632350661641_silhouette-female.png,mfs,"sage, raze, phoenix",2927,0.93,178.1,0.89,70%,118.4,0.61,0.31,0.05,0.08,25%,18%
+bungee,Kristen ,Haight,active,http://static.lolesports.com/players/1632349454592_silhouette-female.png,TSM.X,"jett, reyna, raze",3094,0.96,211.4,0.99,67%,138.0,0.76,0.17,0.14,0.14,26%,15%
+katsumi,Kat, ,active,http://static.lolesports.com/players/1632345436708_silhouette-female.png,Burg,"omen, sage, viper",5434,0.98,192.6,0.98,72%,126.2,0.69,0.27,0.08,0.08,31%,13%
+Slandy,Natalie,Anderson,active,http://static.lolesports.com/players/1632346882299_silhouette-female.png,RF.GC,"skye, phoenix, breach",4278,0.88,170.0,0.82,70%,113.1,0.59,0.34,0.07,0.09,23%,12%
+jellyfish,Irene,Draayer,active,http://static.lolesports.com/players/1632351974966_silhouette-female.png,Impe,"skye, viper, astra",330,0.74,148.1,0.69,61%,97.4,0.52,0.26,0.05,0.11,31%,17%
+chloe,Chloe,Wong,active,http://static.lolesports.com/players/1632346923891_silhouette-female.png,MSF,"sage, jett, cypher",848,0.85,189.9,0.83,64%,124.7,0.67,0.17,0.13,0.15,22%,8%
+cwaudia,Claudia,Salyga,active,http://static.lolesports.com/players/1632421564264_silhouette-female.png,ARI,"killjoy, sage, sova",845,0.83,174.3,0.73,67%,115.7,0.57,0.3,0.06,0.07,16%,11%
+Rebecca,Barbora ,ýýezýýýýovýý,active,http://static.lolesports.com/players/1633033031951_silhouette.png,(+6),"omen, astra, viper",380,0.83,167.1,0.74,70%,113.8,0.57,0.38,0.06,0.08,26%,13%
+CaspeRR,Neha,Sottany,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SCC.A,"sova, cypher, kayo",232,0.84,173.1,0.73,55%,116.5,0.55,0.26,0.08,0.09,20%,5%
+leah,Leah,Heredia,active,http://static.lolesports.com/players/1632349019259_silhouette-female.png,Soli,"jett, omen, astra",289,0.93,199.4,0.88,70%,126.2,0.7,0.36,0.13,0.07,24%,11%
+edith,Eden,Bryce Cutlip,active,http://static.lolesports.com/players/1681051381330_silhouette_transparent.png,YFP,"chamber, jett, raze",2064,1.1,245.0,1.15,69%,158.0,0.86,0.17,0.18,0.16,25%,13%
+rayse,John,Holland,active,http://static.lolesports.com/players/1681051122153_silhouette_transparent.png,COL,"viper, omen, brimstone",3470,0.98,206.2,0.97,71%,133.7,0.71,0.3,0.12,0.11,25%,14%
+KARRA,Katherine,Lee,active,http://static.lolesports.com/players/1632419905077_silhouette-female.png,FLY.R,"astra, sage, skye",4542,1.02,193.1,0.97,74%,124.6,0.68,0.4,0.08,0.08,31%,13%
+flowerful,Kayla,Horton,active,http://static.lolesports.com/players/1632344314158_silhouette-female.png,LIL,"killjoy, sage, viper",5755,1.05,205.1,1.08,71%,137.0,0.73,0.16,0.09,0.08,23%,14%
+panini,Vanessa,Emory,active,http://static.lolesports.com/players/1632344407755_silhouette-female.png,oomf,"omen, astra, viper",5098,1.0,192.7,0.97,73%,126.4,0.68,0.3,0.07,0.07,24%,10%
+Kazler,Else ,Smart,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,RF.GC,"skye, reyna, chamber",2599,1.0,204.1,0.98,70%,133.4,0.72,0.29,0.1,0.11,29%,23%
+UNSTABLE,Joshua,Park,active,http://static.lolesports.com/players/1690153127027_silhouette_transparent.png,DSG,"jett, raze, skye",3619,1.07,224.3,1.1,72%,145.0,0.8,0.23,0.17,0.13,29%,15%
+Lorri,Lorri,Elad,active,http://static.lolesports.com/players/1632344375025_silhouette-female.png,EG.GC,"jett, raze, sage",4858,0.96,204.6,0.95,70%,131.8,0.71,0.29,0.11,0.11,24%,12%
+MiLLER,John,Reynolds,active,http://static.lolesports.com/players/1632351176679_silhouette.png,(+1),"cypher, brimstone, omen",384,,180.1,0.88,,112.4,0.65,0.16,0.07,0.1,24%,20%
+evv,Evan ,do couto,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FLY.R,"raze, breach, jett",2802,0.94,194.2,0.92,71%,127.5,0.68,0.3,0.09,0.1,31%,15%
+theia,Melisa,Mundorff,active,http://static.lolesports.com/players/1632350260751_silhouette-female.png,FLY.R,"killjoy, cypher, omen",5445,0.94,180.7,0.92,70%,117.0,0.63,0.31,0.09,0.1,23%,15%
+alimonstr,Alice,Lew,active,http://static.lolesports.com/players/1632351164350_silhouette-female.png,COL,"viper, astra, reyna",739,0.86,170.6,0.81,68%,115.6,0.6,0.28,0.07,0.11,31%,16%
+emuhleet,Emmalee,Garrido,active,http://static.lolesports.com/players/1632350246940_silhouette-female.png,EG.GC,"reyna, phoenix, sage",2603,0.89,167.2,0.81,70%,110.4,0.57,0.41,0.05,0.08,20%,15%
+Hannah,Hannah,Reyes,active,http://static.lolesports.com/players/1632350710126_silhouette-female.png,DSG,"killjoy, cypher, sage",3305,1.06,205.7,1.07,72%,136.1,0.73,0.24,0.08,0.07,24%,13%
+robwiz,Rob,Kennedy,active,http://static.lolesports.com/players/1632344428748_silhouette.png,SR.GC,"jett, kayo",1259,0.8,202.0,0.91,67%,122.4,0.69,0.17,0.18,0.17,16%,16%
+CasperR,Neha,Sottany,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SCC.A,"sova, cypher, kayo",232,0.84,173.1,0.73,55%,116.5,0.55,0.26,0.08,0.09,20%,5%
+shockah,Eva,Clement,active,http://static.lolesports.com/players/1632348918760_silhouette-female.png,PLR,"jett, sova, breach",906,0.76,163.0,0.69,65%,111.5,0.53,0.25,0.05,0.09,20%,14%
+avery,Avery,Eugene,active,http://static.lolesports.com/players/1632352340759_silhouette-female.png,FLOP,"sova, raze, killjoy",3501,1.02,190.9,0.98,72%,127.0,0.67,0.34,0.07,0.07,24%,19%
+Xp3,David,Garrido,active,http://static.lolesports.com/players/1632350387675_silhouette.png,EG.GC,"sage, cypher, omen",836,0.35,167.7,0.76,35%,111.6,0.59,0.25,0.07,0.11,19%,10%
+Chels,Chelsea,Freitas,active,http://static.lolesports.com/players/1632346399639_silhouette-female.png,22,"reyna, jett, raze",594,0.87,207.9,0.83,62%,131.6,0.71,0.16,0.19,0.22,15%,10%
+slaze,Sophia,Ramirez,active,http://static.lolesports.com/players/1632355541064_silhouette-female.png,BZK.N,"breach, sova, skye",1764,0.95,189.4,0.91,70%,125.0,0.66,0.25,0.07,0.08,25%,11%
+Xann,Thomas,leslein,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,KS,"jett, killjoy, neon",1715,1.03,237.2,1.03,68%,155.9,0.81,0.19,0.2,0.2,27%,12%
+Theia,Melisa,Mundorff,active,http://static.lolesports.com/players/1632350260751_silhouette-female.png,FLY.R,"killjoy, cypher, omen",5445,0.94,180.7,0.92,70%,117.0,0.63,0.31,0.09,0.1,23%,15%
+PowerPixele,Sean,Martin,active,http://static.lolesports.com/players/1681050926069_silhouette_transparent.png,PP,"skye, chamber, cypher",3076,1.1,213.6,1.09,76%,137.3,0.73,0.44,0.09,0.09,20%,19%
+StarBound,David,Waugh,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FLY.R,"jett, killjoy, cypher",3584,1.17,226.8,1.26,74%,150.9,0.8,0.2,0.1,0.07,19%,14%
+Ariel,Federica ,Gasparo,active,http://static.lolesports.com/players/1633033031951_silhouette.png,OVK,"omen, viper, brimstone",465,0.87,190.3,0.88,63%,127.1,0.69,0.17,0.1,0.14,35%,9%
+Lex,Bailey,Hamill,active,http://static.lolesports.com/players/1632354655564_silhouette-female.png,TOP,"jett, raze, omen",958,0.87,198.4,0.84,63%,134.9,0.68,0.2,0.13,0.18,24%,20%
+Starbound,Starbound,Starbound,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FLY.R,"jett, killjoy, cypher",3584,1.17,226.8,1.26,74%,150.9,0.8,0.2,0.1,0.07,19%,14%
+drea,Drea ,DeStefano,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,INF,"fade, sova, skye",632,0.77,175.8,0.76,65%,115.3,0.62,0.2,0.14,0.18,21%,15%
+Dior,Floriana ,La Rosa,active,http://static.lolesports.com/players/1633033031951_silhouette.png,BASE,"phoenix, sage, breach",361,0.73,146.1,0.62,66%,95.6,0.5,0.3,0.07,0.14,17%,18%
+AVERY,Avery,Eugene,active,http://static.lolesports.com/players/1632352340759_silhouette-female.png,FLOP,"sova, raze, killjoy",3501,1.02,190.9,0.98,72%,127.0,0.67,0.34,0.07,0.07,24%,19%
+korosu,Wynn,Lee,active,http://static.lolesports.com/players/1690156239510_silhouette_transparent.png,YFP,"jett, reyna, chamber",1633,0.91,209.0,0.94,65%,138.9,0.74,0.15,0.17,0.18,32%,15%
+rayne,Rayne ,Sanchez,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,YDZ.GC,"kayo, sage, raze",1051,0.88,196.1,0.84,63%,129.6,0.68,0.19,0.12,0.16,25%,15%
+Miku,Jason,Huerta,active,http://static.lolesports.com/players/1676655892722_silhouette_transparent.png,NCL.GC,"killjoy, chamber, skye",783,0.94,222.9,0.94,67%,144.5,0.76,0.26,0.16,0.16,20%,12%
+yeji,JiHyeon,Kim,active,,SaD,"chamber, jett, viper",408,0.98,197.5,0.9,60%,137.3,0.69,0.21,0.07,0.09,25%,14%
+Australis,Aurora,Coe,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SaD,"jett, phoenix, raze",2764,1.02,207.7,0.96,71%,138.4,0.71,0.35,0.07,0.09,22%,11%
+Laisha,Laisha,Hernandez,active,http://static.lolesports.com/players/1632421534722_silhouette-female.png,Agog,"raze, sova, fade",227,0.69,133.5,0.53,60%,95.9,0.44,0.26,0.04,0.08,20%,5%
+Alexis,Alexis,Guarrasi,active,http://static.lolesports.com/players/1632345457970_silhouette-female.png,SR,"cypher, killjoy, sage",6988,0.99,175.4,0.95,75%,112.2,0.62,0.44,0.05,0.07,30%,15%
+Katsumi,Kat, ,active,http://static.lolesports.com/players/1632345436708_silhouette-female.png,Burg,"omen, sage, viper",5434,0.98,192.6,0.98,72%,126.2,0.69,0.27,0.08,0.08,31%,13%
+denni,Denniece,Aguila,active,http://static.lolesports.com/players/1632420573115_silhouette-female.png,Wann,"raze, sage, reyna",258,0.79,182.5,0.71,56%,123.9,0.6,0.2,0.09,0.08,25%,11%
+lazylion,Nathan,Hoang,active,http://static.lolesports.com/players/1690153015486_silhouette_transparent.png,DSG,"sova, breach, jett",4312,1.02,205.9,1.03,71%,135.6,0.73,0.29,0.09,0.09,27%,14%
+Wolffe,Lancerio,Jorge,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,BAL,"omen, brimstone, sage",444,0.83,177.3,0.78,67%,119.6,0.61,0.25,0.06,0.07,28%,11%
+Nami,Iman,Nagaaoui,active,,AxS,"astra, breach, jett",632,0.85,189.7,0.77,65%,128.8,0.63,0.25,0.12,0.12,25%,6%
+melya,Sameer,Khan,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,Elat,"viper, chamber, kayo",2028,1.0,206.0,0.96,68%,138.3,0.73,0.3,0.08,0.09,27%,13%
+Jazzyk1ns,Jasmine,Manankil,active,http://static.lolesports.com/players/1632345493968_silhouette-female.png,PP,"raze, phoenix, jett",6037,1.03,223.3,1.06,71%,147.1,0.76,0.24,0.16,0.16,21%,14%
+Vernina,Verina,Gozum,active,http://static.lolesports.com/players/1632346906016_silhouette-female.png,mfs,"raze, killjoy, cypher",3463,0.97,195.7,0.98,67%,128.5,0.7,0.16,0.11,0.1,24%,12%
+fifi,Fiona,Lin,active,http://static.lolesports.com/players/1632421052190_silhouette-female.png,SRN.P,"skye, killjoy, kayo",662,0.88,166.7,0.81,72%,109.7,0.58,0.38,0.07,0.08,27%,14%
+bunnybee,Jude,Golden,active,http://static.lolesports.com/players/1681051560275_silhouette_transparent.png,oomf,"breach, chamber, skye",4541,0.99,232.2,1.01,68%,149.8,0.79,0.22,0.19,0.17,27%,17%
+Existinge,Eve,Williams,active,http://static.lolesports.com/players/1632351864462_silhouette-female.png,SLAY,"sova, sage, kayo",282,0.8,164.4,0.71,64%,108.7,0.56,0.27,0.06,0.11,24%,2%
+spite,Alex,Daneshi,active,http://static.lolesports.com/players/1632356419626_silhouette-female.png,TMX,"omen, sova, breach",425,0.76,158.0,0.69,64%,107.3,0.56,0.26,0.05,0.1,29%,13%
+JcrueL,Joel,Cruel,active,http://static.lolesports.com/players/1646157516275_placeholder.png,NBG,"omen, jett, raze",7150,1.07,218.5,1.11,70%,137.6,0.78,0.18,0.13,0.09,20%,15%
+hannah,Hannah,Reyes,active,http://static.lolesports.com/players/1632350710126_silhouette-female.png,DSG,"killjoy, cypher, sage",3305,1.06,205.7,1.07,72%,136.1,0.73,0.24,0.08,0.07,24%,13%
+cath,Catherine,Leroux,active,http://static.lolesports.com/players/1632364627754_silhouette-female.png,VEL,"raze, skye, reyna",1924,1.04,210.7,1.03,73%,138.5,0.74,0.34,0.1,0.1,22%,16%
+speq,June ,Park,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,Bumb,"fade, sova, skye",450,0.71,148.8,0.61,64%,98.4,0.5,0.32,0.05,0.1,24%,10%
+Katarina,Katrina,Alma Perez,active,http://static.lolesports.com/players/1690152924004_silhouette_transparent.png,DSG,"jett, astra, phoenix",2735,1.08,236.5,1.1,71%,152.9,0.82,0.18,0.16,0.12,21%,16%
+Natty,Natalia,Jackson,active,http://static.lolesports.com/players/1632419854078_silhouette-female.png,VX,"omen, phoenix, viper",588,0.76,167.8,0.68,65%,111.4,0.57,0.25,0.09,0.13,22%,14%
+Qlutch,Jamie,Hakim,active,http://static.lolesports.com/players/1632354868439_silhouette-female.png,(+3),"killjoy, reyna, skye",520,0.76,173.5,0.73,66%,115.1,0.6,0.31,0.06,0.14,24%,10%
+L4CE,Lacey,Dilworth,active,http://static.lolesports.com/players/1632351102788_silhouette-female.png,UCI,"sova, skye, breach",5844,1.11,208.4,1.11,76%,137.0,0.74,0.36,0.07,0.06,30%,13%
+Andrehs,Winifer,Padrino,active,,AKV.GC,"breach, kayo, sova",534,0.91,180.1,0.84,70%,119.4,0.59,0.35,0.07,0.12,22%,14%
+Buffala,Michel,Padilla,active,,BBB,"chamber, killjoy, sova",516,0.9,190.5,0.84,65%,130.5,0.65,0.25,0.09,0.14,21%,14%
+AlexaIsHot,Alexa,Somoza,active,http://static.lolesports.com/players/1676656721385_silhouette_transparent.png,INF,"omen, viper, kayo",320,1.08,212.5,1.17,69%,138.2,0.78,0.24,0.13,0.13,17%,21%
+Tura,Frida,Cervantes,active,http://static.lolesports.com/players/1684912344289_silhouette_transparent.png,FSX,"brimstone, astra, viper",217,0.97,184.0,0.89,71%,119.3,0.63,0.4,0.07,0.09,22%,22%
+Lied,Espinoza,Adriana,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,FSX,"breach, fade, skye",537,1.18,211.3,1.18,75%,138.7,0.73,0.39,0.07,0.08,19%,22%
+Rage,Eliana ,Avila,active,,(+7),"viper, astra, omen",570,0.92,186.9,0.92,67%,125.2,0.64,0.25,0.08,0.09,21%,12%
+nah,Nicolas,Ortega,active,http://static.lolesports.com/players/1684913527526_silhouette_transparent.png,ZEN.GC,"omen, raze, cypher",280,0.78,147.6,0.7,62%,104.9,0.56,0.23,0.06,0.07,24%,18%
+sabooboo,Alessandra ,de Andrade,active,http://static.lolesports.com/players/1684912469063_silhouette_transparent.png,RF.GC,"harbor, brimstone, omen",245,1.03,214.5,1.01,74%,137.1,0.76,0.4,0.11,0.09,17%,5%
+JAZZYK1NS,Jasmine,Manankil,active,http://static.lolesports.com/players/1632345493968_silhouette-female.png,PP,"raze, phoenix, jett",6037,1.03,223.3,1.06,71%,147.1,0.76,0.24,0.16,0.16,21%,14%
+bethany,Bethany,Davie,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SL9,"omen, brimstone, sage",294,1.14,209.9,1.14,78%,134.9,0.75,0.41,0.07,0.06,22%,14%
+alannah,Alannah,Gomezel,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SL9,"cypher, killjoy, chamber",457,0.99,195.4,0.99,69%,130.1,0.7,0.26,0.09,0.08,26%,14%
+Shinobu,Deborah Anne ,Zamudio,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,(+1),"viper, omen, brimstone",333,0.86,176.5,0.79,67%,114.0,0.61,0.34,0.07,0.1,33%,5%
+andy,Andy,Bui,active,http://static.lolesports.com/players/1632420665260_silhouette.png,FC,"jett, raze, neon",2290,1.0,219.7,1.03,69%,141.2,0.76,0.22,0.14,0.14,19%,12%
+pink,Thomas,Cham,active,http://static.lolesports.com/players/1632421143645_silhouette.png,229,"raze, jett, iso",229,0.82,190.8,0.76,64%,127.7,0.62,0.17,0.11,0.1,26%,10%
+julia,Giulia,Balanica,active,,SNG,"astra, kayo, brimstone",2280,1.02,203.7,1.02,71%,133.3,0.74,0.23,0.08,0.07,36%,12%
+LeeLee,Lee Lee,Fps,active,http://static.lolesports.com/players/1632350787841_silhouette-female.png,BZK.N,"jett, phoenix, killjoy",2184,0.79,162.0,0.73,68%,106.3,0.55,0.32,0.07,0.1,23%,12%
+unstable,Joshua,Park,active,http://static.lolesports.com/players/1690153127027_silhouette_transparent.png,DSG,"jett, raze, skye",3619,1.07,224.3,1.1,72%,145.0,0.8,0.23,0.17,0.13,29%,15%
+Gigi,Gianna,Polanco,active,http://static.lolesports.com/players/1632354582451_silhouette-female.png,Moon,"skye, killjoy, sova",660,0.88,169.3,0.78,69%,114.9,0.59,0.3,0.04,0.04,21%,8%
+POWERPIXELE,Sean,Martin,active,http://static.lolesports.com/players/1681050926069_silhouette_transparent.png,PP,"skye, chamber, cypher",3076,1.1,213.6,1.09,76%,137.3,0.73,0.44,0.09,0.09,20%,19%
+Chobo,Evalynn,Chiu,active,http://static.lolesports.com/players/1633023274886_silhouette-female.png,SLR,"cypher, sova, sage",905,0.75,150.6,0.65,66%,98.0,0.5,0.26,0.07,0.13,17%,10%
+valusia,Sofia ,Kaplan,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,Soli,"killjoy, breach, jett",529,0.99,195.3,0.93,71%,130.5,0.7,0.31,0.09,0.07,26%,11%
+Hollywood,Hunter,Neal,active,http://static.lolesports.com/players/1632421589334_silhouette.png,AIM,"sova, skye, reyna",418,0.9,199.6,0.87,65%,131.4,0.69,0.22,0.14,0.14,24%,7%
+Sarastarr,Sara,Chang,active,http://static.lolesports.com/players/1632365206969_silhouette-female.png,N2L,sova,514,0.78,162.5,0.68,66%,112.2,0.53,0.32,0.05,0.1,15%,15%
+Superkat,Kat ,Bisson,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,PAW,"raze, jett, sage",2409,0.99,198.9,0.98,69%,131.6,0.69,0.22,0.1,0.12,28%,16%
+aniemal,Annie,Lee,active,http://static.lolesports.com/players/1632351147343_silhouette-female.png,Wild,"sage, killjoy, cypher",2739,0.85,177.1,0.81,67%,119.8,0.61,0.24,0.07,0.11,21%,16%
+Kayleigh,Kayleigh,Gutierrez,active,http://static.lolesports.com/players/1632351641689_silhouette-female.png,Roul,"sova, skye, cypher",241,0.86,174.9,0.85,61%,114.8,0.65,0.16,0.06,0.1,32%,22%
+Aery,Aria,Moreno,active,http://static.lolesports.com/players/1632420378534_silhouette-female.png,Moon,"jett, astra, breach",349,0.78,202.4,0.75,62%,132.2,0.67,0.26,0.13,0.13,24%,16%
+Starlight,Makayla,Crouse,active,http://static.lolesports.com/players/1632355499829_silhouette-female.png,(+8),"astra, sage, omen",3190,0.74,153.1,0.72,65%,100.3,0.54,0.25,0.06,0.11,23%,14%
+AgM,Michael,Abood,active,http://static.lolesports.com/players/1646157485939_placeholder.png,COL,"phoenix, raze, killjoy",5281,0.93,190.2,0.94,69%,125.6,0.66,0.19,0.08,0.09,22%,13%
+Sekkya,Kassandra ,Baroni,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,SaD,"sage, skye, neon",580,0.74,145.8,0.63,60%,96.1,0.51,0.35,0.04,0.08,20%,14%
+kaii,Hannah,Dinh,active,http://static.lolesports.com/players/1632348563834_silhouette-female.png,RIOS,"reyna, jett, astra",255,0.86,201.0,0.8,58%,131.1,0.69,0.14,0.1,0.13,25%,11%
+suerte,Stephanie,Abanilla,active,http://static.lolesports.com/players/1632355872860_silhouette-female.png,AIM,"jett, astra, cypher",321,0.93,214.6,0.95,65%,138.4,0.74,0.15,0.13,0.14,24%,13%
+jen,Jennifer,Khamdaraphone,active,http://static.lolesports.com/players/1632348934230_silhouette-female.png,Merc,"skye, reyna, astra",2104,0.91,173.3,0.86,70%,117.5,0.61,0.28,0.05,0.07,28%,10%
+Flowerful,Kayla,Horton,active,http://static.lolesports.com/players/1632344314158_silhouette-female.png,LIL,"killjoy, sage, viper",5755,1.05,205.1,1.08,71%,137.0,0.73,0.16,0.09,0.08,23%,14%
+Tastyy,Octavio David ,Islas,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,MSF,"astra, viper, raze",1199,1.11,224.5,1.1,70%,144.7,0.79,0.32,0.11,0.15,29%,21%
+bunnyhuh,Binnie,Song,active,http://static.lolesports.com/players/1632422154808_silhouette-female.png,Team,"raze, viper, omen",875,0.89,195.1,0.87,68%,130.8,0.68,0.27,0.07,0.1,17%,10%
+Karra,Katherine,Lee,active,http://static.lolesports.com/players/1632419905077_silhouette-female.png,FLY.R,"astra, sage, skye",4542,1.02,193.1,0.97,74%,124.6,0.68,0.4,0.08,0.08,31%,13%
+Starryy,Lauren,Lam,active,http://static.lolesports.com/players/1632349001603_silhouette-female.png,$10,"astra, sage, breach",906,0.71,162.6,0.65,61%,109.5,0.54,0.29,0.07,0.12,20%,9%
+jcrueL,Joel,Cruel,active,http://static.lolesports.com/players/1646157516275_placeholder.png,NBG,"omen, jett, raze",7150,1.07,218.5,1.11,70%,137.6,0.78,0.18,0.13,0.09,20%,15%
+Julia,Giulia,Balanica,active,,SNG,"astra, kayo, brimstone",2280,1.02,203.7,1.02,71%,133.3,0.74,0.23,0.08,0.07,36%,12%
+MelJ,Mel,Mishler,active,http://static.lolesports.com/players/1632421391173_silhouette-female.png,VX,"sova, jett, raze",735,0.8,178.6,0.75,64%,116.6,0.61,0.28,0.06,0.12,22%,12%
+nmutuA,Autumn,Morgan,active,http://static.lolesports.com/players/1632352326712_silhouette-female.png,DART,"killjoy, sova, sage",2003,0.84,161.7,0.77,67%,108.2,0.56,0.3,0.05,0.07,30%,12%
+Ltomlee,Lauren,Tomlin,active,http://static.lolesports.com/players/1632427542446_silhouette-female.png,OINK,"chamber, reyna, breach",788,0.92,192.2,0.91,67%,128.8,0.68,0.25,0.08,0.1,25%,16%
+Naomi,Naomi,Sauvola,active,http://static.lolesports.com/players/1632419841536_silhouette-female.png,QoR.GC,"killjoy, skye, cypher",1777,0.86,177.3,0.81,64%,117.5,0.6,0.18,0.06,0.07,21%,10%
+Grimoire,Velvet,A,active,http://static.lolesports.com/players/1632352298515_silhouette-female.png,YFP,"reyna, skye, astra",2978,0.93,191.5,0.91,70%,125.5,0.68,0.29,0.08,0.08,37%,14%
+genuine,Jenny,Nguyen,active,http://static.lolesports.com/players/1632355886339_silhouette-female.png,AIM,"phoenix, skye, kayo",260,0.65,158.1,0.67,65%,100.6,0.55,0.27,0.09,0.17,21%,18%
+BLUSH,Emily,Spears,active,http://static.lolesports.com/players/1632421548724_silhouette-female.png,FL,"jett, raze, kayo",378,0.8,172.6,0.75,65%,110.8,0.6,0.26,0.07,0.1,17%,12%
+Stacey,Anastasia,Papanikolaou,active,http://static.lolesports.com/players/1681467103221_silhouette_transparent.png,KPI.S,"jett, raze",779,0.93,199.5,0.98,67%,132.2,0.7,0.16,0.18,0.2,27%,11%
+Ciao,Ciao,Li,active,http://static.lolesports.com/players/1632346485600_silhouette-female.png,FIRE,"astra, cypher, viper",685,0.83,178.9,0.78,65%,120.8,0.62,0.26,0.08,0.1,24%,13%
+Shura,Jade,Harwood,active,http://static.lolesports.com/players/1685348730516_silhouette_transparent.png,axol,"jett, raze, reyna",584,0.79,194.5,0.83,61%,126.4,0.68,0.15,0.16,0.23,22%,6%
+Serena,Serena,Ribe,active,http://static.lolesports.com/players/1681465291135_silhouette_transparent.png,VLNT,"sage, skye, kayo",1713,0.91,177.0,0.86,70%,117.9,0.62,0.32,0.07,0.07,33%,15%
+fluxxy,Lola,Ainslie,active,http://static.lolesports.com/players/1681461388823_silhouette_transparent.png,HERO,"astra, omen, viper",2000,1.09,214.8,1.07,74%,142.5,0.75,0.3,0.1,0.1,26%,16%
+flowia,Gï¿½ï¿½lm,Arï¿,active,http://static.lolesports.com/players/1633033031951_silhouette.png,IWC.F,"kayo, killjoy, sage",483,0.75,168.6,0.75,61%,109.5,0.61,0.13,0.08,0.09,25%,13%
+cataLina,India,Dubourg,active,http://static.lolesports.com/players/1687853492415_silhouette_transparent.png,ZER.M,"sova, omen, sage",1307,0.88,179.5,0.82,68%,117.4,0.62,0.31,0.09,0.11,30%,10%
+Blossi,Evi,Sutter,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,aTTaX,"killjoy, viper, chamber",1692,0.94,179.4,0.88,70%,120.8,0.62,0.37,0.06,0.1,24%,11%
+Padge,Paige,Thomas,active,http://static.lolesports.com/players/1633033031951_silhouette.png,NIP.LI,"jett, chamber, raze",2517,1.12,243.2,1.16,71%,157.4,0.86,0.16,0.16,0.14,29%,21%
+Essy,Essy,ýýýýplak,active,http://static.lolesports.com/players/1685348710828_silhouette_transparent.png,(+4),"sova, astra, omen",450,0.88,167.7,0.8,67%,111.6,0.59,0.32,0.05,0.06,26%,15%
+Tokameite,Anastasia,Pozharskaya,active,,NSR.I,"breach, sova, raze",1250,1.01,188.4,0.96,71%,125.7,0.67,0.35,0.06,0.07,28%,13%
+adora,Nadia,Sasnauskaite,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,HERO,"raze, jett, viper",1535,1.04,230.6,1.05,67%,154.2,0.81,0.17,0.17,0.17,29%,10%
+Tinylady,Hosana Kmiecik,Velozo,active,http://static.lolesports.com/players/1633033031951_silhouette.png,ITB.P,"jett, sage, raze",421,0.78,188.4,0.76,64%,122.6,0.62,0.21,0.12,0.19,23%,10%
+tokameite,Anastasia,Pozharskaya,active,,NSR.I,"breach, sova, raze",1250,1.01,188.4,0.96,71%,125.7,0.67,0.35,0.06,0.07,28%,13%
+Miyu,Ngoc Nhu,Le,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FKS.S,"kayo, skye, astra",424,0.68,145.8,0.59,64%,95.7,0.48,0.35,0.03,0.06,21%,12%
+Metzly,Maribel,Esteban Corchano,active,http://static.lolesports.com/players/1637005882622_placeholder.png,Case,"killjoy, cypher, viper",790,0.9,173.1,0.89,67%,116.8,0.61,0.18,0.07,0.09,19%,21%
+zaina,zaina,mohamed,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GnG.W,"killjoy, sage, chamber",390,0.79,166.0,0.74,66%,104.1,0.59,0.29,0.07,0.09,25%,8%
+Serina,Serina ,Dekkers,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GORG,"chamber, reyna, killjoy",346,0.74,169.4,0.71,58%,113.4,0.57,0.13,0.09,0.1,22%,5%
+victoria,Victoria,Ukasova,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GLD.GC,"viper, astra, omen",1453,0.86,177.2,0.81,70%,117.5,0.6,0.33,0.08,0.11,21%,14%
+strahlen,Aylin,Rathke,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,NB,"chamber, omen, astra",414,0.93,180.2,0.84,73%,116.6,0.6,0.4,0.08,0.11,25%,30%
+Mai,Pholyn Andrea Mhay,Panter,active,http://static.lolesports.com/players/1651480959427_silhouette_transparent.png,QLSH.S,"chamber, breach, sova",524,1.01,194.2,1.01,70%,128.6,0.69,0.35,0.09,0.06,25%,13%
+Smurfette,Yaï¿½ï¿,Gï¿½ï¿½n,active,http://static.lolesports.com/players/1633033031951_silhouette.png,GX.GC,"jett, raze, neon",5288,1.06,241.6,1.12,70%,155.5,0.85,0.16,0.2,0.17,26%,18%
+Natalcia,Natalia,Wyrï¿½ï¿,active,http://static.lolesports.com/players/1685348910885_silhouette_transparent.png,INC.GC,"sage, cypher, breach",1585,1.06,221.8,1.06,70%,150.3,0.78,0.23,0.11,0.09,31%,12%
+Nico,Yang,Xinxin,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,UOL,"sage, breach, phoenix",2913,1.0,177.8,0.98,73%,115.9,0.65,0.33,0.06,0.05,26%,11%
+Soyeon,Rania,BENCHETIOUI,active,http://static.lolesports.com/players/1637004940927_placeholder.png,3DO,"sova, skye, viper",327,0.91,183.8,0.8,66%,125.6,0.63,0.25,0.06,0.08,23%,13%
+Leeni,Leeni,Pulkkinen,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FKS.S,"raze, jett, breach",943,0.96,218.4,0.94,67%,144.7,0.74,0.2,0.18,0.19,20%,15%
+ginger,Nicole,Rott,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,aTTaX,"jett, sage, raze",1535,0.93,194.0,0.95,68%,128.0,0.69,0.25,0.07,0.11,22%,19%
+Daffy,yaï¿½ï¿½,kaya,active,http://static.lolesports.com/players/1633033031951_silhouette.png,Eter,"jett, raze, neon",568,0.92,206.6,0.88,66%,138.2,0.72,0.17,0.13,0.15,24%,11%
+Cloudtail,Saia,Kris ,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,TOG,"sova, cypher, sage",273,0.8,173.3,0.76,69%,115.0,0.58,0.25,0.06,0.09,18%,7%
+xenia,Sude,Altaï¿,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,HOWL.M,"sova, chamber, sage",1452,0.96,200.7,0.97,69%,131.3,0.72,0.27,0.1,0.11,33%,18%
+Leyre,Leyre,Cebollada,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,TU.O,"gekko, omen, astra",769,1.05,209.5,1.02,73%,137.4,0.74,0.39,0.09,0.08,34%,8%
+Nakirye,Nakirye,Nakirye,active,http://static.lolesports.com/players/1633033031951_silhouette.png,DRAG,"chamber, kayo, skye",335,0.69,157.9,0.68,59%,110.0,0.57,0.18,0.05,0.13,32%,20%
+Alessia,Alessia,Crisafo,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,MDK,"killjoy, chamber, jett",1117,1.01,194.2,1.06,67%,130.8,0.72,0.14,0.1,0.11,34%,14%
+jjeonda,Ellen,Fuchs,active,http://static.lolesports.com/players/1633033031951_silhouette.png,SUPE,"viper, skye, astra",459,0.89,172.3,0.84,71%,109.4,0.6,0.33,0.07,0.07,18%,15%
+bee,Bee,Bradbury,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,CEL,"neon, raze, killjoy",289,1.02,220.7,1.08,69%,138.4,0.79,0.2,0.11,0.09,25%,8%
+Marti,Martyna,Pabian,active,,NSR.I,"jett, raze, kayo",2269,1.02,223.3,1.01,69%,145.5,0.77,0.27,0.15,0.17,25%,12%
+ikyoo,Ida,Brinch-Nielsen,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FKS.S,"chamber, jett, raze",1249,0.93,203.4,0.94,68%,134.9,0.72,0.21,0.15,0.16,24%,8%
+Summ3r,Summer,Al-Bayati,active,http://static.lolesports.com/players/1681464564262_silhouette_transparent.png,201,"raze, jett",201,0.92,217.6,0.9,71%,142.2,0.74,0.19,0.16,0.17,23%,21%
+Jem,Jamela,Almhwari,active,http://static.lolesports.com/players/1681464482323_silhouette_transparent.png,FLCV,"raze, sova, jett",830,0.89,182.6,0.83,68%,123.7,0.61,0.28,0.08,0.09,21%,13%
+Luj,Lujain,Binsimih,active,http://static.lolesports.com/players/1681464415012_silhouette_transparent.png,FLCV,"chamber, viper, astra",2673,1.04,206.4,1.06,72%,136.7,0.73,0.31,0.08,0.07,35%,12%
+Ruzica,Dhay,Alfahmi,active,http://static.lolesports.com/players/1681464441527_silhouette_transparent.png,FLCV,"omen, killjoy, chamber",1471,0.98,187.4,1.02,69%,127.9,0.69,0.13,0.08,0.07,27%,15%
+miNt,Jeong,Yerim,active,,FL.GC,"jett, raze",1110,1.17,261.6,1.26,71%,165.3,0.94,0.14,0.23,0.17,34%,18%
+R4M,Tokushima,Shiina,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,(+2),"astra, viper, neon",760,0.95,191.8,0.87,72%,124.2,0.66,0.41,0.07,0.1,20%,17%
+mityu,Yuuka ,Adachi,active,,CGST,"breach, skye, kayo",230,0.9,155.1,0.75,74%,100.9,0.52,0.47,0.04,0.02,20%,18%
+krenn,Mayu,Kayaba,active,,SZ.GC,"harbor, kayo, raze",311,0.85,174.9,0.83,65%,120.2,0.62,0.2,0.05,0.14,24%,13%
+ZODIAX,Yuu,Yoneshige,active,,DFM,"cypher, omen, viper",364,0.54,190.5,0.89,47%,120.2,0.67,0.24,0.06,0.09,25%,13%
+UR,Nanae,Kubo,active,,ZETA.GC,"gekko, viper, sova",751,1.14,217.5,1.13,72%,144.6,0.77,0.35,0.08,0.07,24%,24%
+romia,Sugiyama,Airi,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,FL.GC,"killjoy, cypher, gekko",1276,1.04,199.2,1.09,71%,132.8,0.72,0.2,0.08,0.08,26%,20%
+yuzu,Yuzuki,Kon,active,,SZ.GC,"killjoy, omen, astra",311,0.99,195.1,0.93,69%,125.0,0.68,0.35,0.08,0.07,23%,17%
+YamZzi,Su jin,Park,active,,FL.GC,"killjoy, cypher, reyna",1110,1.13,203.0,1.16,72%,135.1,0.75,0.3,0.08,0.07,32%,20%
+Sar,  Sarah,Alshethri,active,,(+1),"sage, skye, sova",213,0.79,178.3,0.76,64%,119.4,0.6,0.26,0.08,0.08,29%,12%
+Eva,Nur,ýýakýýr,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FLCV,"omen, skye, sova",1407,1.17,209.1,1.27,76%,136.8,0.78,0.25,0.05,0.05,30%,14%
+Tiraye,Tiraye,K,active,http://static.lolesports.com/players/1632350722326_silhouette-female.png,GENG,"viper, astra, omen",1627,0.92,179.6,0.9,72%,115.7,0.64,0.32,0.05,0.07,24%,16%
+truo,Robert,Pham,active,http://static.lolesports.com/players/1646157563370_placeholder.png,LIL,"omen, sage, jett",3214,0.97,187.9,0.95,71%,123.6,0.67,0.29,0.07,0.07,29%,11%
+KP,Erik,Lytle,active,http://static.lolesports.com/players/1632344353199_silhouette-female.png,RF.GC,"cypher, sova, skye",6174,0.94,177.5,0.9,70%,117.1,0.63,0.31,0.06,0.08,28%,13%
+Jan,Jannah,Banghaon,active,http://static.lolesports.com/players/1632351134529_silhouette-female.png,TMX,"reyna, brimstone, sage",286,1.01,217.5,0.97,71%,145.8,0.78,0.22,0.06,0.09,21%,18%
+A1ka,Ayami,Matsui,active,http://static.lolesports.com/players/1689845472506_placeholder.png,DRX.C,"killjoy, cypher, fade",473,1.0,197.3,0.97,66%,138.9,0.69,0.16,0.1,0.08,25%,22%
+Reta,Retaj,Alaqi,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FLCV,"chamber, sage, killjoy",517,1.04,186.5,1.13,75%,128.2,0.7,0.26,0.08,0.08,33%,8%
+may,Mayara,Diniz,active,http://static.lolesports.com/players/1676660457899_silhouette_transparent.png,GMX.L,"omen, sova, skye",238,1.12,236.2,1.25,81%,149.2,0.87,0.23,0.15,0.08,20%,9%
+Madv,Modhi,Alkanhal,active,http://static.lolesports.com/players/1681464387886_silhouette_transparent.png,FLCV,"breach, sage, kayo",3349,1.16,223.7,1.18,75%,144.3,0.8,0.38,0.09,0.08,38%,19%
+Dori,Yume,Suzuki,active,http://static.lolesports.com/players/1689845253856_placeholder.png,CYG,"omen, astra, kayo",417,0.97,183.5,0.91,71%,121.0,0.65,0.39,0.07,0.07,25%,10%
+GGonyaK,kyoyeon,Park,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,CYG,"jett, raze, sage",211,0.92,197.8,0.92,66%,131.4,0.7,0.21,0.13,0.15,30%,22%
+onni,Ryouko,Ono,active,,CYG,"omen, jett, brimstone",211,1.09,230.9,1.08,67%,142.1,0.81,0.27,0.12,0.16,26%,9%
+Ayanami,Nana,Tanikawa,active,http://static.lolesports.com/players/1689844600206_placeholder.png,UxMi,"jett, sage",214,0.85,202.0,0.88,65%,125.9,0.71,0.26,0.11,0.25,17%,11%
+yunah,Kimika,Kanda,active,,SZ.GC,"viper, killjoy, kayo",311,1.07,211.0,1.06,73%,137.1,0.75,0.32,0.05,0.08,28%,8%
+aco,Sasaki,Haruna,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,(+3),"skye, sova, gekko",1218,0.92,179.1,0.89,73%,114.7,0.62,0.44,0.07,0.09,20%,13%
+uKa,Yuuka,Hitosugi,active,,FL.GC,"sova, fade, sage",488,0.8,154.4,0.73,68%,101.8,0.51,0.39,0.04,0.1,12%,18%
+YamzzI,Sujin,Park,active,,FL.GC,"killjoy, cypher, reyna",1110,1.13,203.0,1.16,72%,135.1,0.75,0.3,0.08,0.07,32%,20%
+Len,Oowatari,Kasumi,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,CYG,"omen, viper, astra",916,0.95,178.4,0.89,68%,114.3,0.62,0.37,0.08,0.07,22%,14%
+HakuNa,Soyoung,Yoon,active,,RIG.L,"killjoy, viper, cypher",359,1.04,192.6,1.0,67%,130.7,0.67,0.18,0.06,0.06,25%,21%
+KOHAL,Migita,Seina,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,ZETA.GC,"breach, sage, kayo",871,0.95,168.4,0.91,75%,110.2,0.6,0.49,0.06,0.06,26%,16%
+Dia,Momoka,Inazumi,active,,SZ.GC,"jett, sage, raze",311,0.93,219.0,0.92,66%,142.1,0.75,0.2,0.21,0.22,31%,8%
+Mistiare,Elise ,Dennis,active,http://static.lolesports.com/players/1633033031951_silhouette.png,EG,"omen, viper, skye",271,0.97,193.1,0.92,68%,123.1,0.69,0.24,0.06,0.07,20%,11%
+Kleisy,Arya,Can,active,http://static.lolesports.com/players/1637005772902_placeholder.png,MadW,"raze, reyna, jett",722,0.83,198.9,0.82,62%,133.9,0.67,0.19,0.16,0.19,24%,10%
+Miiizzy,Michelle Isabella,Tierce,active,http://static.lolesports.com/players/1633033031951_silhouette.png,FMG.GC,"reyna, raze, chamber",861,0.95,209.5,0.89,67%,141.7,0.7,0.33,0.12,0.15,22%,7%
+Poach,Brumleve,Jake,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,DSG,"viper, sova, omen",4072,0.99,180.4,0.95,72%,118.2,0.62,0.29,0.07,0.08,24%,13%
+Moco,Kawashima,Sarina,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,(+1),"omen, astra, viper",1218,1.19,216.6,1.23,77%,137.3,0.77,0.45,0.07,0.06,25%,18%
+Festival,Park,Gayeon,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,MTR,"jett, neon, raze",377,1.08,246.9,1.09,68%,157.3,0.83,0.21,0.18,0.18,26%,22%
+PingSonG,Reina,Yamanaka,active,https://s3.us-west-2.amazonaws.com/static.lolesports.com/players/default-headshot.png,FL.GC,"fade, sova, skye",520,0.88,178.6,0.81,70%,116.4,0.6,0.34,0.08,0.07,28%,13%
+maripo,Marina,Nakano,active,http://static.lolesports.com/players/1689845077063_placeholder.png,RIG.L,"sova, skye, fade",655,1.0,191.9,0.98,72%,127.4,0.7,0.3,0.07,0.09,20%,16%
+juri,Juri,Tamai,active,http://static.lolesports.com/players/1689845292160_placeholder.png,DRX.C,"breach, skye, sova",284,0.78,151.9,0.73,68%,99.3,0.52,0.34,0.05,0.07,16%,12%
+Mincho,Bae,Sang mi,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,RIG.L,"kayo, sage, breach",401,0.96,190.0,0.87,75%,125.1,0.64,0.52,0.07,0.08,20%,8%
+Curumi,Tajima,Haruka,active,http://static.lolesports.com/players/1643734200321_silhouette_transparent.png,FL.GC,"fade, sova, breach",1391,0.88,176.8,0.82,70%,113.9,0.6,0.43,0.08,0.09,20%,14%
+daf,Shuri,Mishio,active,,DFM.GC,"jett, raze, sova",312,0.96,207.2,0.93,66%,139.7,0.72,0.21,0.15,0.16,20%,4%
