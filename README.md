@@ -1,6 +1,7 @@
 # VALORANT Esports Team Creator and Comparison App
 
 This project provides a comprehensive tool for managing and creating VALORANT esports teams. Built with Streamlit and powered by AWS Bedrock, it allows team managers to create teams, compare players from different leagues, and even query a chatbot to get tailored team suggestions based on an extensive knowledge base.
+
 YouTube demo - [VALORANT Esports Team Creator](https://www.youtube.com/watch?v=ig6K2p5thWg)
 
 ## Features
